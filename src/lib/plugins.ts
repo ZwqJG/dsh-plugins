@@ -21,18 +21,18 @@ export type Plugin = {
 };
 
 export const categories: Category[] = [
-  { slug: "system", name: "⚙ 基础与系统", description: "Core runtime and system plugins" },
-  { slug: "tools", name: "🛠 工具集", description: "Everyday tools for Harness" },
-  { slug: "agent-automation", name: "🤖 Agent 与自动化", description: "Workflows, routing, and automation" },
-  { slug: "web-ui", name: "🎨 Web UI 增强", description: "Web browsing and UI workflows" },
-  { slug: "desktop-terminal", name: "🖥 桌面与终端", description: "Desktop, shell, and terminal tools" },
-  { slug: "vision-multimodal", name: "👁 视觉与多模态", description: "Vision, audio, and multimodal inputs" },
-  { slug: "memory-knowledge", name: "🧠 记忆与知识", description: "Memory, context, and learning" },
-  { slug: "security-ops", name: "🛡 安全与运维", description: "Security, diagnostics, and ops" },
-  { slug: "files-content", name: "📎 文件与内容", description: "Files, documents, and content" },
-  { slug: "notifications-collab", name: "🔌 通知与协作", description: "Notifications and integrations" },
-  { slug: "search-research", name: "🌐 搜索与研究", description: "Search, retrieval, and research" },
-  { slug: "other", name: "📦 其他", description: "Unclassified plugins" },
+  { slug: "system", name: "⚙ Core & System", description: "Core runtime and system plugins" },
+  { slug: "tools", name: "🛠 Tooling", description: "Everyday tools for Harness" },
+  { slug: "agent-automation", name: "🤖 Agent & Automation", description: "Workflows, routing, and automation" },
+  { slug: "web-ui", name: "🎨 Web UI", description: "Web browsing and UI workflows" },
+  { slug: "desktop-terminal", name: "🖥 Desktop & Terminal", description: "Desktop, shell, and terminal tools" },
+  { slug: "vision-multimodal", name: "👁 Vision & Multimodal", description: "Vision, audio, and multimodal inputs" },
+  { slug: "memory-knowledge", name: "🧠 Memory & Knowledge", description: "Memory, context, and learning" },
+  { slug: "security-ops", name: "🛡 Security & Ops", description: "Security, diagnostics, and ops" },
+  { slug: "files-content", name: "📎 Files & Content", description: "Files, documents, and content" },
+  { slug: "notifications-collab", name: "🔌 Notifications & Integrations", description: "Notifications and integrations" },
+  { slug: "search-research", name: "🌐 Search & Research", description: "Search, retrieval, and research" },
+  { slug: "other", name: "📦 Other", description: "Unclassified plugins" },
 ];
 
 export const plugins = generatedPlugins as Plugin[];

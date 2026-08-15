@@ -92,6 +92,8 @@ test("GitHub plugin sync runs at Beijing 10:00 with a compensating trigger and r
   assert.match(workflow, /cancel-in-progress:\s*false/);
   assert.match(workflow, /max_attempts=3/);
   assert.match(workflow, /git diff --quiet -- src\/data\/github-plugins\.json/);
+  assert.match(workflow, /git fetch origin main/);
+  assert.match(workflow, /git reset --hard origin\/main/);
 });
 
 test("FAQ covers the DeepSeek Harness long-tail questions with official destinations", async () => {

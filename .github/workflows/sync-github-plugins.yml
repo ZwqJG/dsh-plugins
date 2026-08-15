@@ -52,6 +52,18 @@ jobs:
             sleep "$sleep_seconds"
           done
 
+      - name: Rebase the snapshot on the latest main
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          # A queued compensation run can start from the same event SHA as
+          # the primary run. Rebuild from the latest remote main before push.
+          git fetch origin main
+          git reset --hard origin/main
+          npm run sync:github
+
       - name: Commit the changed snapshot
         shell: bash
         run: |

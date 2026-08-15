@@ -83,6 +83,17 @@ test("runtime dependencies and sync pagination have deterministic bounds", async
   assert.match(sync, /Math\.min\(10, Math\.max\(1,/);
 });
 
+test("GitHub plugin sync runs at Beijing 10:00 with a compensating trigger and retries", async () => {
+  const workflow = await readFile(new URL(".github/workflows/sync-github-plugins.yml", root), "utf8").catch(() => "");
+  assert.match(workflow, /cron:\s*["']0 2 \* \* \*["']/);
+  assert.match(workflow, /cron:\s*["']30 2 \* \* \*["']/);
+  assert.match(workflow, /workflow_dispatch:/);
+  assert.match(workflow, /contents:\s*write/);
+  assert.match(workflow, /cancel-in-progress:\s*false/);
+  assert.match(workflow, /max_attempts=3/);
+  assert.match(workflow, /git diff --quiet -- src\/data\/github-plugins\.json/);
+});
+
 test("FAQ covers the DeepSeek Harness long-tail questions with official destinations", async () => {
   const faq = await readFile(new URL("src/lib/faq.ts", root), "utf8").catch(() => "");
   const page = await readFile(new URL("src/app/faq/page.tsx", root), "utf8").catch(() => "");

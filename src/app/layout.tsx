@@ -3,9 +3,12 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "DSH Plugins — DeepSeek Harness Plugin Directory",
+  title: {
+    default: "DSH Plugins",
+    template: "%s — DSH Plugins",
+  },
   description:
-    "Discover plugins for DeepSeek Harness (dsh), the open-source agent harness from DeepSeek AI.",
+    "DeepSeek Harness plugin directory, product briefings, and paper summaries.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

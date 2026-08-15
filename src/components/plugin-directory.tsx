@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import SiteHeader from "@/components/site-header";
 import { categories, categoryCounts, plugins } from "@/lib/plugins";
 import { sortPlugins, type SortOption } from "@/lib/plugin-sort";
 
@@ -55,13 +56,7 @@ export default function PluginDirectory() {
 
   return (
     <>
-      <header className="topbar">
-        <Link className="brand" href="/" aria-label="DSH Plugins home">
-          <span className="brand-mark">DSH PLUGINS</span>
-          <span className="brand-note">the DeepSeek Harness plugin index</span>
-        </Link>
-        <nav className="nav" aria-label="Main navigation"><a href="#explore">Explore</a><a href="#categories">Categories</a><a href="#about">About</a></nav>
-      </header>
+      <SiteHeader variant="home" openLinksInNewTab />
 
       <main className="main" id="explore">
         <section className="hero">
@@ -75,6 +70,19 @@ export default function PluginDirectory() {
             <input value={query} onChange={(event) => updateQuery(event.target.value)} placeholder="Search by name, capability, or tag" />
             {query && <button type="button" aria-label="Clear search" onClick={() => updateQuery("")}>×</button>}
           </label>
+        </section>
+
+        <section className="promo-grid" aria-label="Featured reading">
+          <Link className="promo-card promo-card-harness" href="/harness" target="_blank" rel="noopener noreferrer">
+            <span className="promo-kicker">Harness guide</span>
+            <strong>Install it. Then understand the runtime.</strong>
+            <span>Quick start, Cordis architecture, traceable sessions, and four runtime modes.</span>
+          </Link>
+          <Link className="promo-card promo-card-paper" href="/paper" target="_blank" rel="noopener noreferrer">
+            <span className="promo-kicker">Cordis paper</span>
+            <strong>Why dynamic composition needs two dimensions.</strong>
+            <span>An accessible guide to the design, guarantees, evidence, and boundaries.</span>
+          </Link>
         </section>
 
         <section className="section" id="categories">
@@ -93,7 +101,7 @@ export default function PluginDirectory() {
           <div className="results-head"><div><h2 className="results-title">{selectedName}</h2><span className="section-meta"> {filteredPlugins.length} plugins{selectedCategory ? " · selected category" : ""}</span></div><select className="sort" aria-label="Sort plugins" value={sort} onChange={(event) => setSort(event.target.value as SortOption)}><option value="trending">Sort: Trending</option><option value="popular">Sort: Popular</option><option value="recent">Sort: Recently updated</option></select></div>
           {visiblePlugins.length === 0 ? <div className="empty">No plugins match “{query}”. Try another capability or category.</div> : <>
             <div className="list-head"><span>PLUGIN</span><span>DESCRIPTION &amp; CATEGORY</span><span>LANGUAGE</span><span>STATS</span></div>
-            {visiblePlugins.map((plugin) => <Link className="plugin-row" href={`/plugins/${plugin.owner}/${plugin.repo}`} key={`${plugin.owner}/${plugin.repo}`}>
+            {visiblePlugins.map((plugin) => <Link className="plugin-row" href={`/plugins/${plugin.owner}/${plugin.repo}`} target="_blank" rel="noopener noreferrer" key={`${plugin.owner}/${plugin.repo}`}>
               <div><div className="plugin-name">{plugin.repo}</div><div className="plugin-owner">{plugin.owner}</div></div>
               <div className="plugin-copy"><div className="plugin-description">{plugin.description}</div><span className="tag primary">{categories.find((category) => category.slug === plugin.category)?.name ?? "Other"}</span>{plugin.tags.map((tag) => <span className="tag" key={tag}>{tag}</span>)}</div>
               <div className="plugin-copy">● {plugin.language}</div>
@@ -102,6 +110,7 @@ export default function PluginDirectory() {
             {remaining > 0 && <button className="view-more" type="button" onClick={() => setVisibleCount(sortedPlugins.length)}>View {remaining} more plugins</button>}
           </>}
         </section>
+
       </main>
 
       <footer className="footer" id="about"><span>DSH Plugins · an independent community index</span><span>Data source: GitHub dsh-plugin topic</span></footer>

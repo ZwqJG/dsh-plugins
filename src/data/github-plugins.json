@@ -1,5 +1,1084 @@
 [
   {
+    "owner": "inclusionAI",
+    "repo": "Avernet",
+    "description": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-coordination",
+      "agent-infrastructure",
+      "agent-orgnaization"
+    ],
+    "language": "Python",
+    "stars": 547,
+    "updatedAt": "2026-09-11T07:24:12Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/inclusionAI/Avernet"
+  },
+  {
+    "owner": "xiixii005-tech",
+    "repo": "dsh-file-diff",
+    "description": "deepseek harness 会话文件修改总览插件（by dsh deepseek v4 flash）",
+    "category": "files-content",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:23:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/xiixii005-tech/dsh-file-diff"
+  },
+  {
+    "owner": "bailong-Hakuryu",
+    "repo": "dsh-security-assurance",
+    "description": "DeepSeek Harness 策略驱动的仓库安全评估插件，支持包生命周期评估、证据、发现、裁决、导出和 /security 指令。 | Policy-driven repository security assurance plugin for DeepSeek Harness with package lifecycle assessments, evidence, findings, verdicts, exports, and /security routing.",
+    "category": "security-ops",
+    "tags": [
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:23:30Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/bailong-Hakuryu/dsh-security-assurance"
+  },
+  {
+    "owner": "yuu1111",
+    "repo": "dsh-ui-font",
+    "description": "DeepSeek Harness Web GUI plugin: change the UI font family through theme token overrides",
+    "category": "web-ui",
+    "tags": [
+      "cordis",
+      "font"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:23:00Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/yuu1111/dsh-ui-font"
+  },
+  {
+    "owner": "boe1900",
+    "repo": "owndsh",
+    "description": "The Self-Hosted Control Plane for DeepSeek-Harness",
+    "category": "other",
+    "tags": [],
+    "language": "Java",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:22:18Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/boe1900/owndsh"
+  },
+  {
+    "owner": "huahai0202",
+    "repo": "dsh-better-archive",
+    "description": "DeepSeek Harness (DSH) web-GUI plugin: archived-session panel with unarchive & delete",
+    "category": "web-ui",
+    "tags": [
+      "cordis"
+    ],
+    "language": "JavaScript",
+    "stars": 9,
+    "updatedAt": "2026-09-11T07:22:00Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/huahai0202/dsh-better-archive"
+  },
+  {
+    "owner": "qw457812",
+    "repo": "dotfiles",
+    "description": "My dotfiles on macOS and Termux, managed with Chezmoi.",
+    "category": "files-content",
+    "tags": [
+      "chezmoi",
+      "dotfiles",
+      "macos"
+    ],
+    "language": "Lua",
+    "stars": 5,
+    "updatedAt": "2026-09-11T07:21:52Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/qw457812/dotfiles"
+  },
+  {
+    "owner": "AtlasCloudAI",
+    "repo": "cli",
+    "description": "AtlasCloud CLI installers and release artifacts",
+    "category": "desktop-terminal",
+    "tags": [
+      "ai",
+      "atlascloud",
+      "cli"
+    ],
+    "language": "JavaScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:21:30Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/AtlasCloudAI/cli"
+  },
+  {
+    "owner": "sz1698",
+    "repo": "dsh-bg-new",
+    "description": "DSH 网页界面换背景：侧栏「壁纸」按钮弹出右侧抽屉，支持系统预设/纯色/渐变/图片/视频，滚轮+拖动小图同时管缩放与定位，毛玻璃质感，本地媒体伺服不走云端。DSH web background & wallpaper plugin with drawer UI, glassmorphism and local media serving.",
+    "category": "web-ui",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:20:53Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/sz1698/dsh-bg-new"
+  },
+  {
+    "owner": "dreamor",
+    "repo": "MemVault",
+    "description": "MemVault — The Shared Memory Layer for Every AI Agent You Run. MCP-native memory router with auto-injection, hybrid search, and zero-config sync.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-memory",
+      "ai-agents",
+      "ai-memory"
+    ],
+    "language": "Rust",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:20:08Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/dreamor/MemVault"
+  },
+  {
+    "owner": "ysr666",
+    "repo": "dsh-vision-router",
+    "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+    "category": "agent-automation",
+    "tags": [
+      "multimodal",
+      "vision"
+    ],
+    "language": "JavaScript",
+    "stars": 1096,
+    "updatedAt": "2026-09-11T07:20:06Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/ysr666/dsh-vision-router"
+  },
+  {
+    "owner": "AtlasCloudAI",
+    "repo": "atlas-cloud-skills",
+    "description": "Atlas Cloud skills for Claude Code, Codex & Gemini CLI — generate images/videos and call 300+ AI models from your coding agent.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "atlascloud"
+    ],
+    "language": "JavaScript",
+    "stars": 29,
+    "updatedAt": "2026-09-11T07:20:00Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/AtlasCloudAI/atlas-cloud-skills"
+  },
+  {
+    "owner": "wangshunnn",
+    "repo": "oh-my-dsh",
+    "description": "🐋 All you need is oh-my-dsh ｜ DeepSeek Harness 社区插件索引与精选（自动更新）",
+    "category": "other",
+    "tags": [],
+    "language": "TypeScript",
+    "stars": 5,
+    "updatedAt": "2026-09-11T07:19:49Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/wangshunnn/oh-my-dsh"
+  },
+  {
+    "owner": "wingsky-1",
+    "repo": "dsh-plugin-hub",
+    "description": "DSH (DeepSeek Harness) web GUI plugin collection — notifications, provider usage, LAN proxy, MCP manager, codegraph, file preview. Adapts to dsh 0.1.2-alpha.3. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all",
+    "category": "web-ui",
+    "tags": [],
+    "language": "TypeScript",
+    "stars": 16,
+    "updatedAt": "2026-09-11T07:19:46Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/wingsky-1/dsh-plugin-hub"
+  },
+  {
+    "owner": "kovey",
+    "repo": "dsh-nvim-tui",
+    "description": "Neovim-style TUI for DeepSeek Harness (dsh): nvim renders the terminal, a Node runner bridges DSH agent events over msgpack-RPC — sessions, tool cards, reasoning panel, approvals, markdown tables",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "dsh-tui"
+    ],
+    "language": "TypeScript",
+    "stars": 4,
+    "updatedAt": "2026-09-11T07:19:47Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/kovey/dsh-nvim-tui"
+  },
+  {
+    "owner": "wsxwj123",
+    "repo": "dsh-plugins",
+    "description": "Independent plugins for DeepSeek Harness, organized as isolated packages in one monorepo.",
+    "category": "other",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T07:19:40Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/wsxwj123/dsh-plugins"
+  },
+  {
+    "owner": "SiriLee",
+    "repo": "dsh-rewind",
+    "description": "DSH 插件：真正便捷无感的同窗口内对话回退，从不新建分支；自带轻量工作区备份，可一并还原文件（完整 Claude Code /rewind 语义）。 · DSH plugin: genuinely effortless in-window conversation rewind — never forking a new session; ships a lightweight workspace backup that restores files together with the rewind (full Claude Code /rewind semantics).",
+    "category": "web-ui",
+    "tags": [
+      "backup",
+      "chat",
+      "checkpoint"
+    ],
+    "language": "TypeScript",
+    "stars": 56,
+    "updatedAt": "2026-09-11T07:19:11Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/SiriLee/dsh-rewind"
+  },
+  {
+    "owner": "Justin-sky",
+    "repo": "ai-art-engine",
+    "description": "AI 艺术创作引擎，专业的短视频创作工具",
+    "category": "system",
+    "tags": [
+      "3d-modeling",
+      "artist"
+    ],
+    "language": "TypeScript",
+    "stars": 122,
+    "updatedAt": "2026-09-11T07:19:04Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/Justin-sky/ai-art-engine"
+  },
+  {
+    "owner": "bbqisbbq",
+    "repo": "dsh-tiddlywiki",
+    "description": "No repository description is available yet.",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "agent-tools",
+      "ai"
+    ],
+    "language": "TypeScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:18:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/bbqisbbq/dsh-tiddlywiki"
+  },
+  {
+    "owner": "ZekaiShi",
+    "repo": "evo-subagent",
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/deny lists), so repeated tasks start from proven commands and save tokens. Unified subagent routing and evolution: prefercmd/memory serve as knowledge allow/deny lists, saving tokens.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-plugin",
+      "ai-agent",
+      "llm-agent"
+    ],
+    "language": "JavaScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T07:18:40Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-skills",
+      "ai-design",
+      "byok"
+    ],
+    "language": "TypeScript",
+    "stars": 95494,
+    "updatedAt": "2026-09-11T07:20:28Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/nexu-io/open-design"
+  },
+  {
+    "owner": "PC2005-cloud",
+    "repo": "dsh-pet",
+    "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+    "category": "desktop-terminal",
+    "tags": [
+      "desktop-pet"
+    ],
+    "language": "TypeScript",
+    "stars": 600,
+    "updatedAt": "2026-09-11T07:18:28Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/PC2005-cloud/dsh-pet"
+  },
+  {
+    "owner": "leeyoung1",
+    "repo": "dsh-advisor-plugin",
+    "description": "DeepSeek Harness advisor plugin: pair a fast executor with a stronger reviewer model",
+    "category": "agent-automation",
+    "tags": [
+      "advisor",
+      "agent",
+      "coding-agent"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:18:21Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/leeyoung1/dsh-advisor-plugin"
+  },
+  {
+    "owner": "stultuss",
+    "repo": "dsh-clear-tool-results",
+    "description": "DSH 宿主插件：每轮对话结束后，把该轮的原始工具结果归档（tool result）到会话目录（tool-result-logs），并从上下文中清除，减少 Token 消耗；模型可用 read_tool_result_log 工具按轮次或时间自主读取归档数据。",
+    "category": "tools",
+    "tags": [
+      "clear-tool-result"
+    ],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:18:03Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/stultuss/dsh-clear-tool-results"
+  },
+  {
+    "owner": "AtlasCloudAI",
+    "repo": "mcp-server",
+    "description": "MCP server for Atlas Cloud - AI API aggregation platform for image/video generation and LLM",
+    "category": "vision-multimodal",
+    "tags": [
+      "ai",
+      "atlascloud",
+      "claude"
+    ],
+    "language": "TypeScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T07:17:37Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/AtlasCloudAI/mcp-server"
+  },
+  {
+    "owner": "vclike",
+    "repo": "dsh-github-companion",
+    "description": "DeepSeek Harness 插件：AI 操作 GitHub 的完整集成——33 个 REST/GraphQL 工具 + 进程内权限门 + 成本纪律 companion skill — DeepSeek Harness plugin: complete GitHub integration for AI agents, 33 tools, permission gate, companion skill.",
+    "category": "agent-automation",
+    "tags": [
+      "dsh-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:17:32Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/vclike/dsh-github-companion"
+  },
+  {
+    "owner": "LeemanCheung",
+    "repo": "dsh-image-gen",
+    "description": "GPT Image 2 generation with progressive Codex-style previews for DeepSeek Harness",
+    "category": "vision-multimodal",
+    "tags": [
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "language": "TypeScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:17:33Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/LeemanCheung/dsh-image-gen"
+  },
+  {
+    "owner": "Lundly",
+    "repo": "dsh-shutdown",
+    "description": "❎Provide a shutdown button to quickly close tabs and dsh in the deepseek harness web interface 在deepseek harness网页界面中提供一个关闭按钮快捷关闭标签页和dsh进程",
+    "category": "web-ui",
+    "tags": [],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:17:14Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Lundly/dsh-shutdown"
+  },
+  {
+    "owner": "ice5kysl",
+    "repo": "dsh-insights",
+    "description": "DSH Insights — the DeepSeek Harness ecosystem observatory: full-corpus plugin discovery, manifest-gated authoritative set, objective health scores (S/A–D), official dynamics, author analytics, weekly ecosystem reports, open data + badges. Zero-dependency Node pipeline.",
+    "category": "system",
+    "tags": [
+      "plugin-ecosystem"
+    ],
+    "language": "HTML",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:17:13Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/ice5kysl/dsh-insights"
+  },
+  {
+    "owner": "Devin-AXIS",
+    "repo": "iPolloWork",
+    "description": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-collaboration",
+      "agent-skills",
+      "ai-agents"
+    ],
+    "language": "TypeScript",
+    "stars": 5762,
+    "updatedAt": "2026-09-11T07:21:43Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/Devin-AXIS/iPolloWork"
+  },
+  {
+    "owner": "Vladimir-Human",
+    "repo": "ru-marketplace-mcp",
+    "description": "Одиннадцать маркетплейсов как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
+    "category": "tools",
+    "tags": [
+      "aliexpress",
+      "avito",
+      "citilink"
+    ],
+    "language": "Python",
+    "stars": 91,
+    "updatedAt": "2026-09-11T07:17:08Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
+  },
+  {
+    "owner": "goatliamia",
+    "repo": "dsh-plugin-maker",
+    "description": "No repository description is available yet.",
+    "category": "other",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 2,
+    "updatedAt": "2026-09-11T07:16:45Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/goatliamia/dsh-plugin-maker"
+  },
+  {
+    "owner": "phuongddx",
+    "repo": "jarvis",
+    "description": "JARVIS is an intelligent layer that gives agents access to their code, knowledge, context, memory, tools, and runtime — starting locally on your machine, with the ability to extend into the cloud.",
+    "category": "agent-automation",
+    "tags": [
+      "claude-code",
+      "code-intelligence",
+      "code-search"
+    ],
+    "language": "Python",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:17:47Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/phuongddx/jarvis"
+  },
+  {
+    "owner": "FeatherHunter",
+    "repo": "dsh-mattpocock-skills-deck",
+    "description": "Matt Pocock 技能面板（DSH Deck）：安装即自带 25 个工程与效率技能（mattpocock/skills v1.2.3：triage、grilling、wayfinder、handoff 等），右侧面板直接调用，无需手动装技能。当前主力支持 GitHub issue；Markdown 本地文件为预览版；GitLab 暂不在支持范围。希望它能帮你把想法更快变成现实。",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "ai",
+      "claude"
+    ],
+    "language": "JavaScript",
+    "stars": 59,
+    "updatedAt": "2026-09-11T07:16:40Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
+  },
+  {
+    "owner": "Yunado",
+    "repo": "dsh-qwen38-local-qol",
+    "description": "DeepSeek Harness QoL plugin for the local Qwen3.8 line (27B/Flash-Next): per-request thinking budgets, a compaction backend that stops burning the output cap on thinking, and a settings tab. 本地 Qwen3.8 线的 DSH QoL 插件：逐请求 thinking 预算、不再把输出帽烧在 thinking 上的压缩后端、设置 tab。",
+    "category": "security-ops",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:16:36Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Yunado/dsh-qwen38-local-qol"
+  },
+  {
+    "owner": "kenz1117",
+    "repo": "dsh-ui-usage-billing",
+    "description": "Usage billing dashboard plugin for DeepSeek Harness: sidebar cost metrics, real usage aggregation from session logs, current multi-provider pricing catalog",
+    "category": "web-ui",
+    "tags": [
+      "billing",
+      "dashboard",
+      "deepseek-harness-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 42,
+    "updatedAt": "2026-09-11T07:16:06Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/kenz1117/dsh-ui-usage-billing"
+  },
+  {
+    "owner": "guhanfei-ai",
+    "repo": "dsh-grafana",
+    "description": "让DSH帮你丰富对物理世界的可观测",
+    "category": "other",
+    "tags": [
+      "dashboard",
+      "dashboards",
+      "dsh-plugins"
+    ],
+    "language": "JavaScript",
+    "stars": 8,
+    "updatedAt": "2026-09-11T07:15:57Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/guhanfei-ai/dsh-grafana"
+  },
+  {
+    "owner": "flg1217",
+    "repo": "dsh-subagent-codebuddy",
+    "description": "CodeBuddy CLI ACP 子代理插件:dsh subagent provider + subagent_codebuddy 工具",
+    "category": "agent-automation",
+    "tags": [
+      "agents",
+      "codebuddy",
+      "llm"
+    ],
+    "language": "TypeScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:15:48Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/flg1217/dsh-subagent-codebuddy"
+  },
+  {
+    "owner": "helloproblems",
+    "repo": "dsh-browser-use",
+    "description": "为 DeepSeek Harness (DSH) 插件生态打造的浏览器自动化插件",
+    "category": "web-ui",
+    "tags": [
+      "cordis"
+    ],
+    "language": "TypeScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:15:45Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/helloproblems/dsh-browser-use"
+  },
+  {
+    "owner": "AaronandWork",
+    "repo": "dsh-evidence-gate",
+    "description": "No repository description is available yet.",
+    "category": "other",
+    "tags": [
+      "cordis"
+    ],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:15:34Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/AaronandWork/dsh-evidence-gate"
+  },
+  {
+    "owner": "whiteguo233",
+    "repo": "OpenBiliClaw",
+    "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agent",
+      "bilibili",
+      "chrome-extension"
+    ],
+    "language": "Python",
+    "stars": 3281,
+    "updatedAt": "2026-09-11T07:14:21Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/whiteguo233/OpenBiliClaw"
+  },
+  {
+    "owner": "DoloresCaritasAngelus",
+    "repo": "DSH-AUX",
+    "description": "Auxiliary model system for DeepSeek Harness: unified aux-LLM routing (per-task model, timeout, concurrency, failure cooldown, main-model fallback) + vision_analyze / web_extract / compress_text tools, settings page, and session image lifecycle cleanup.",
+    "category": "web-ui",
+    "tags": [
+      "auxiliary-model",
+      "cordis",
+      "llm"
+    ],
+    "language": "JavaScript",
+    "stars": 5,
+    "updatedAt": "2026-09-11T07:14:14Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/DoloresCaritasAngelus/DSH-AUX"
+  },
+  {
+    "owner": "wecode-ai",
+    "repo": "Wegent",
+    "description": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "ai",
+      "chatbot"
+    ],
+    "language": "TypeScript",
+    "stars": 847,
+    "updatedAt": "2026-09-11T07:23:08Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/wecode-ai/Wegent"
+  },
+  {
+    "owner": "zzy6-a",
+    "repo": "dsh-vision",
+    "description": "DSH Computer Use：让 Agent 看见 Windows 屏幕并直接操作桌面（视觉通道 + 鼠标/键盘 + Codex 风格蓝色覆盖层，Esc 随时中止）。",
+    "category": "agent-automation",
+    "tags": [
+      "automation",
+      "computer-use",
+      "vision"
+    ],
+    "language": "PowerShell",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:13:57Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/zzy6-a/dsh-vision"
+  },
+  {
+    "owner": "lyuwen",
+    "repo": "dsh-steer-button",
+    "description": "Queue, Steer, and Backlog for DSH. More diverse way to interact with the agent while it's running.",
+    "category": "agent-automation",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:13:53Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/lyuwen/dsh-steer-button"
+  },
+  {
+    "owner": "Aa728848",
+    "repo": "dsh-llm-verifier",
+    "description": "Configurable DSH-native LLM verifier with a Web settings page",
+    "category": "web-ui",
+    "tags": [
+      "dsh-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 14,
+    "updatedAt": "2026-09-11T07:13:20Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Aa728848/dsh-llm-verifier"
+  },
+  {
+    "owner": "xujiping",
+    "repo": "dsh-plugins",
+    "description": "DeepSeek Harness 自研插件全家桶（monorepo）：dsh-memory 全局记忆等",
+    "category": "memory-knowledge",
+    "tags": [
+      "dsh-memory",
+      "plugins"
+    ],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:13:01Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/xujiping/dsh-plugins"
+  },
+  {
+    "owner": "superdesigndev",
+    "repo": "treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "category": "agent-automation",
+    "tags": [
+      "agents",
+      "api-keys",
+      "cli"
+    ],
+    "language": "Python",
+    "stars": 1351,
+    "updatedAt": "2026-09-11T07:16:04Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "owner": "advance-lion",
+    "repo": "dsh-brand",
+    "description": "方便魔改作者轻量化自定义商标",
+    "category": "other",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:12:17Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/advance-lion/dsh-brand"
+  },
+  {
+    "owner": "menantonio83-hue",
+    "repo": "tnt-house",
+    "description": "TNT House - Safe New Tokens Platform",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agents",
+      "mcp-server",
+      "risk-scoring"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:11:27Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/menantonio83-hue/tnt-house"
+  },
+  {
+    "owner": "himovo",
+    "repo": "movo",
+    "description": "Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "ai-agents",
+      "brower-automation"
+    ],
+    "language": "Python",
+    "stars": 30,
+    "updatedAt": "2026-09-11T07:20:36Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/himovo/movo"
+  },
+  {
+    "owner": "xchannel1987",
+    "repo": "dsh-session-xc",
+    "description": "DSH session enhancement plugin with session count display, archive management, and cross-workspace move",
+    "category": "other",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:11:10Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/xchannel1987/dsh-session-xc"
+  },
+  {
+    "owner": "weibaohui",
+    "repo": "dsh-kb",
+    "description": "dsh 插件 · 团队知识库：离线知识共享（FDE 盒子），浏览/全文检索/加工入口；写路径收口 agent，基于 Karpathy LLM Wiki 模式",
+    "category": "agent-automation",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:10:51Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/weibaohui/dsh-kb"
+  },
+  {
+    "owner": "Sqhao-O",
+    "repo": "dsh-intercom",
+    "description": "Inter-session messaging plugin for DeepSeek Harness (dsh): let independent dsh sessions on one machine discover each other and exchange messages (send / ask / reply). Port of pi-intercom.",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agents",
+      "deepseek",
+      "llm-agent"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:10:56Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Sqhao-O/dsh-intercom"
+  },
+  {
+    "owner": "buhuikongpan",
+    "repo": "dsh-project-context",
+    "description": "给 DSH 工作区一个用途维度：项目工作区注入项目约定，临时会话（$DSH_HOME/workspace/default，首次运行自动创建）注入『非项目』状态块。侧边栏底部一颗「临时会话」按钮 + 会话头用途徽标。dsh-plugin",
+    "category": "memory-knowledge",
+    "tags": [
+      "project-context"
+    ],
+    "language": "JavaScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:10:25Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/buhuikongpan/dsh-project-context"
+  },
+  {
+    "owner": "alibaba",
+    "repo": "anolisa",
+    "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-infrastructure",
+      "agent-memory",
+      "agent-runtime"
+    ],
+    "language": "Rust",
+    "stars": 603,
+    "updatedAt": "2026-09-11T07:10:15Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/alibaba/anolisa"
+  },
+  {
+    "owner": "MichengAI",
+    "repo": "dsh-codex-desktop",
+    "description": "DeepSeek Harness Codex Desktop — 无需预装环境、开箱即用的跨平台桌面客户端 · A ready-to-use cross-platform DeepSeek Harness desktop client with no environment setup",
+    "category": "desktop-terminal",
+    "tags": [
+      "deepseek",
+      "dsh-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 69,
+    "updatedAt": "2026-09-11T07:09:45Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/MichengAI/dsh-codex-desktop"
+  },
+  {
+    "owner": "tafcear",
+    "repo": "kimi-tide",
+    "description": "🌊 月汐（kimi-tide）— DSH 的「每一步自动选模型」插件：贴图自动走能看图的模型，写代码走编码模型，闲聊翻译走便宜模型，每次选了谁、为什么，面板看得见 · The per-step model router for DeepSeek Harness: any connected model, routed by your rules",
+    "category": "agent-automation",
+    "tags": [
+      "deepseek",
+      "kimi",
+      "kimi-code"
+    ],
+    "language": "TypeScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T07:09:32Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/tafcear/kimi-tide"
+  },
+  {
+    "owner": "muretai",
+    "repo": "muretai-dsh-skill",
+    "description": "Join the Muretai agent network from DeepSeek Harness (dsh) — one-step install, MCP wiring, inbound-mail wake",
+    "category": "agent-automation",
+    "tags": [
+      "agent-to-agent",
+      "mcp",
+      "muretai"
+    ],
+    "language": "Shell",
+    "stars": 2,
+    "updatedAt": "2026-09-11T07:09:23Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/muretai/muretai-dsh-skill"
+  },
+  {
+    "owner": "runcat-tommy",
+    "repo": "dsh-chinese-poetry",
+    "description": "A token-free Chinese classical poetry plugin for DeepSeek Harness Web: search, filters, Feihua, daily poem, favorites, and AI explain. Powered by the free public chinese-poetry-api.",
+    "category": "web-ui",
+    "tags": [
+      "chinese-poetry",
+      "classical-chinese-poetry",
+      "deepseek-harness-plugin"
+    ],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:08:26Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/runcat-tommy/dsh-chinese-poetry"
+  },
+  {
+    "owner": "wenzetan",
+    "repo": "dsh-llm-newapi",
+    "description": "NewAPI (OpenAI-compatible gateway) LLM provider plugin for DeepSeek Harness (dsh): chat-only model discovery + Web settings section. Zero dsh modifications.",
+    "category": "web-ui",
+    "tags": [
+      "llm",
+      "newapi",
+      "openai-compatible"
+    ],
+    "language": "TypeScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T07:07:47Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/wenzetan/dsh-llm-newapi"
+  },
+  {
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "category": "agent-automation",
+    "tags": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow"
+    ],
+    "language": "TypeScript",
+    "stars": 72029,
+    "updatedAt": "2026-09-11T07:21:48Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "owner": "FiretrUCK666",
+    "repo": "dsh-task-board",
+    "description": "DSH Web GUI 的任务看板插件：侧边栏入口 + 五列看板，任务经 DSH 会话真实执行，host 端持久化并跨设备实时同步。Task board plugin for the DeepSeek Harness web GUI.",
+    "category": "web-ui",
+    "tags": [
+      "cordis",
+      "kanban",
+      "plugin"
+    ],
+    "language": "TypeScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:06:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/FiretrUCK666/dsh-task-board"
+  },
+  {
+    "owner": "Lum1104",
+    "repo": "dsh-browser",
+    "description": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+    "category": "agent-automation",
+    "tags": [
+      "browser-automation",
+      "chrome-extension",
+      "coding-agent"
+    ],
+    "language": "TypeScript",
+    "stars": 630,
+    "updatedAt": "2026-09-11T07:06:31Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/Lum1104/dsh-browser"
+  },
+  {
+    "owner": "summer-521",
+    "repo": "deepseek-harness-swift",
+    "description": "基于 AppKit、SwiftUI 与 WKWebView 的 DSH 原生 macOS 桌面壳，提供设置中心、DSH 版本管理、插件管理、通知和 Sparkle 应用更新。",
+    "category": "web-ui",
+    "tags": [
+      "deepseek",
+      "dsh-plugin-desktop",
+      "dsh-plugins"
+    ],
+    "language": "Swift",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:06:13Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/summer-521/deepseek-harness-swift"
+  },
+  {
+    "owner": "zhchxiao123",
+    "repo": "dsh-devflow-plugins",
+    "description": "File-backed development workflow for DeepSeek Harness: durable cards, artifact and agent checks, human approvals, and a read-only web board.",
+    "category": "agent-automation",
+    "tags": [
+      "developer-tools",
+      "devflow",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:06:08Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/zhchxiao123/dsh-devflow-plugins"
+  },
+  {
+    "owner": "Vithrive",
+    "repo": "dsh-livebench-panel",
+    "description": "DSH web plugin: a LiveBench tab in the Trajectory view. Run LiveBench evaluations against every model configured in the DeepSeek Harness and read scores in place.",
+    "category": "web-ui",
+    "tags": [
+      "benchmark",
+      "livebench",
+      "llm-evaluation"
+    ],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:04:54Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Vithrive/dsh-livebench-panel"
+  },
+  {
+    "owner": "KCNyu",
+    "repo": "clawock",
+    "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by code the model never touches. Install the same decision workflow into your own agent: OpenClaw, Claude Code, Codex, or DeepSeek Harness.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "language": "Python",
+    "stars": 14,
+    "updatedAt": "2026-09-11T07:04:38Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/KCNyu/clawock"
+  },
+  {
     "owner": "hashgraph-online",
     "repo": "hol-guard",
     "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
@@ -10,24 +1089,540 @@
       "ai-agents"
     ],
     "language": "Python",
-    "stars": 590,
-    "updatedAt": "2026-09-11T06:48:11Z",
+    "stars": 591,
+    "updatedAt": "2026-09-11T07:16:12Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/hashgraph-online/hol-guard"
   },
   {
-    "owner": "Yunado",
-    "repo": "dsh-qwen38-local-qol",
-    "description": "DeepSeek Harness QoL plugin for the local Qwen3.8 line (27B/Flash-Next): per-request thinking budgets, a compaction backend that stops burning the output cap on thinking, and a settings tab. 本地 Qwen3.8 线的 DSH QoL 插件：逐请求 thinking 预算、不再把输出帽烧在 thinking 上的压缩后端、设置 tab。",
-    "category": "security-ops",
+    "owner": "anbeime",
+    "repo": "skill",
+    "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-skills",
+      "claude-skills",
+      "codex"
+    ],
+    "language": "Python",
+    "stars": 6523,
+    "updatedAt": "2026-09-11T07:06:27Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/anbeime/skill"
+  },
+  {
+    "owner": "alpacachen",
+    "repo": "dsh-automation",
+    "description": "Schedule and manage one-time and recurring Agent tasks in DeepSeek Harness",
+    "category": "agent-automation",
+    "tags": [
+      "automation",
+      "coding-agent",
+      "rrule"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:04:21Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/alpacachen/dsh-automation"
+  },
+  {
+    "owner": "dsh-tauri-desk",
+    "repo": "deepseek-harness-desktop",
+    "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+    "category": "desktop-terminal",
+    "tags": [
+      "deepseek",
+      "desktop",
+      "dsh-desktop"
+    ],
+    "language": "TypeScript",
+    "stars": 1915,
+    "updatedAt": "2026-09-11T07:04:29Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop"
+  },
+  {
+    "owner": "Blackman99",
+    "repo": "codsh",
+    "description": "/ship takes one sentence to verified code. Terminal coding agent for DeepSeek and any compatible endpoint.",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agent",
+      "cli",
+      "coding-agent"
+    ],
+    "language": "TypeScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T07:03:38Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Blackman99/codsh"
+  },
+  {
+    "owner": "asuramaya",
+    "repo": "osiris",
+    "description": "The persistent memory and coordination graph for AI agents (MCP, DeepSeek Harness, Claude Code, Cursor)",
+    "category": "agent-automation",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "autonomous-agents"
+    ],
+    "language": "Python",
+    "stars": 1,
+    "updatedAt": "2026-09-11T07:03:07Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/asuramaya/osiris"
+  },
+  {
+    "owner": "vshulcz",
+    "repo": "deja-vu",
+    "description": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-memory",
+      "ai-memory",
+      "claude-code"
+    ],
+    "language": "Go",
+    "stars": 800,
+    "updatedAt": "2026-09-11T07:03:05Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/vshulcz/deja-vu"
+  },
+  {
+    "owner": "flizzywine",
+    "repo": "dsh-tavern",
+    "description": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+    "category": "agent-automation",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 250,
+    "updatedAt": "2026-09-11T07:01:56Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/flizzywine/dsh-tavern"
+  },
+  {
+    "owner": "zuohaisu",
+    "repo": "dsh-ai-soul",
+    "description": "Persistent identity layer for DeepSeek Harness. The first reference implementation of AI Soul.",
+    "category": "other",
     "tags": [],
     "language": "JavaScript",
     "stars": 3,
-    "updatedAt": "2026-09-11T06:48:04Z",
+    "updatedAt": "2026-09-11T07:01:36Z",
     "status": "New",
     "install": null,
-    "githubUrl": "https://github.com/Yunado/dsh-qwen38-local-qol"
+    "githubUrl": "https://github.com/zuohaisu/dsh-ai-soul"
+  },
+  {
+    "owner": "GCWing",
+    "repo": "OpenBitFun",
+    "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-teams",
+      "agentic",
+      "agentic-os"
+    ],
+    "language": "Rust",
+    "stars": 2121,
+    "updatedAt": "2026-09-11T07:01:28Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/GCWing/OpenBitFun"
+  },
+  {
+    "owner": "sanshanya",
+    "repo": "better-model-provider",
+    "description": "Per-model capability declaration for DeepSeek Harness: reasoning-effort levels (wire spellings) + request modalities (vision) for OpenAI-compatible providers. Settings section, zero runtime harness deps, no YAML.",
+    "category": "vision-multimodal",
+    "tags": [
+      "ai-providers",
+      "deepseek",
+      "reasoning-effort"
+    ],
+    "language": "TypeScript",
+    "stars": 12,
+    "updatedAt": "2026-09-11T07:00:48Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/sanshanya/better-model-provider"
+  },
+  {
+    "owner": "6Mikao9",
+    "repo": "dsh-wsl-workspace",
+    "description": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
+    "category": "web-ui",
+    "tags": [
+      "dsh-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 48,
+    "updatedAt": "2026-09-11T07:00:33Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/6Mikao9/dsh-wsl-workspace"
+  },
+  {
+    "owner": "huangyuheng",
+    "repo": "dsh-token-use",
+    "description": "实时 Token 用量仪表盘 · Real-time token usage dashboard for DeepSeek Harness — live totals, filters by model/day/month/project, smooth trend chart.",
+    "category": "system",
+    "tags": [
+      "dashboard",
+      "echarts",
+      "token-usage"
+    ],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:00:18Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/huangyuheng/dsh-token-use"
+  },
+  {
+    "owner": "evoelsewhere",
+    "repo": "evoflux",
+    "description": "Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel. Connect any model, keep control of your workspace and data, and take complex work from idea to completion—all in one place.",
+    "category": "agent-automation",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding-assistant"
+    ],
+    "language": "Python",
+    "stars": 8,
+    "updatedAt": "2026-09-11T06:59:46Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/evoelsewhere/evoflux"
+  },
+  {
+    "owner": "133563825as-ai",
+    "repo": "dsh-api-dashboard",
+    "description": "多平台 API 余额看板插件 for DeepSeek Harness Web GUI",
+    "category": "web-ui",
+    "tags": [
+      "api-dashboard",
+      "balance",
+      "deepseek"
+    ],
+    "language": "JavaScript",
+    "stars": 5,
+    "updatedAt": "2026-09-11T06:58:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/133563825as-ai/dsh-api-dashboard"
+  },
+  {
+    "owner": "CoolTea001",
+    "repo": "dsh-cool-terminal",
+    "description": "Terminal plugin for DeepSeek Harness: stays in sync with the Workspace in real time, with isolated terminals that each keep their own command history.",
+    "category": "desktop-terminal",
+    "tags": [
+      "dsh-plugin-market",
+      "dsh-plugins"
+    ],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T07:18:15Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/CoolTea001/dsh-cool-terminal"
+  },
+  {
+    "owner": "kenz1117",
+    "repo": "dsh-engram",
+    "description": "No repository description is available yet.",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "awesome-dsh-plugin",
+      "embeddings"
+    ],
+    "language": "TypeScript",
+    "stars": 2,
+    "updatedAt": "2026-09-11T06:56:44Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/kenz1117/dsh-engram"
+  },
+  {
+    "owner": "lyaoliu",
+    "repo": "dsh-reasoning-effort-slider",
+    "description": "DSH Desktop reasoning effort slider plugin - 7-level effort control with whale-mom skin",
+    "category": "desktop-terminal",
+    "tags": [
+      "cordis"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T06:55:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/lyaoliu/dsh-reasoning-effort-slider"
+  },
+  {
+    "owner": "ccch1mneyyy",
+    "repo": "dsh-TUI",
+    "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+    "category": "agent-automation",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "deepseek"
+    ],
+    "language": "TypeScript",
+    "stars": 2955,
+    "updatedAt": "2026-09-11T06:59:27Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/ccch1mneyyy/dsh-TUI"
+  },
+  {
+    "owner": "gehennawu",
+    "repo": "dsh-service",
+    "description": "DSH Web 一站式运维面板：安全重启、健康诊断、模型用量与额度查询、会话管理、备份与权限维护、任务通知、技能与子代理模型路由。｜All-in-one operations panel for DSH Web: safe restart , health diagnostics, model usage & quota lookup, session management, backup & permission maintenance, task notifications, skills & subagent model routing.",
+    "category": "agent-automation",
+    "tags": [
+      "deepseek",
+      "operations"
+    ],
+    "language": "JavaScript",
+    "stars": 5,
+    "updatedAt": "2026-09-11T06:55:44Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/gehennawu/dsh-service"
+  },
+  {
+    "owner": "Enosensu",
+    "repo": "dsh-fork-relink",
+    "description": "DSH fork 伴随插件:fork 后自动重链子 agent 记录到新会话 / Auto-relink subagent records to a forked DSH session. Co-developed with AI.",
+    "category": "agent-automation",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T06:55:03Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Enosensu/dsh-fork-relink"
+  },
+  {
+    "owner": "lizhiyao",
+    "repo": "oh-my-knowledge",
+    "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-evaluation",
+      "ai",
+      "benchmark"
+    ],
+    "language": "TypeScript",
+    "stars": 21,
+    "updatedAt": "2026-09-11T06:54:27Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "owner": "bvcvb",
+    "repo": "dsh-baize-rules",
+    "description": "DeepSeek Harness (DSH) plugin — inject durable user-set session/global must-do / must-not requirements into the model at conversation start (Baize).",
+    "category": "agent-automation",
+    "tags": [
+      "agent",
+      "plugin",
+      "rules"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T06:54:10Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/bvcvb/dsh-baize-rules"
+  },
+  {
+    "owner": "TheYoungChen",
+    "repo": "dsh-plugin-market",
+    "description": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
+    "category": "search-research",
+    "tags": [
+      "deepseek-harness-plugin",
+      "dsh-plugins"
+    ],
+    "language": "JavaScript",
+    "stars": 4,
+    "updatedAt": "2026-09-11T06:53:11Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/TheYoungChen/dsh-plugin-market"
+  },
+  {
+    "owner": "d4551",
+    "repo": "DeepTail",
+    "description": "A Tauri 2 client — desktop, iOS, and Android — that connects to DeepSeek Harness hosts and gives you one control plane over the agent sessions running on all of them.",
+    "category": "agent-automation",
+    "tags": [
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh-plugin-market"
+    ],
+    "language": "TypeScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T06:52:56Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/d4551/DeepTail"
+  },
+  {
+    "owner": "alpacachen",
+    "repo": "dsh-kanban",
+    "description": "A shared kanban board for people and AI agents in DeepSeek Harness.",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agent",
+      "kanban",
+      "project-management"
+    ],
+    "language": "JavaScript",
+    "stars": 10,
+    "updatedAt": "2026-09-11T06:52:39Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/alpacachen/dsh-kanban"
+  },
+  {
+    "owner": "PeterBon",
+    "repo": "dsh-hooks",
+    "description": "Config-driven lifecycle hooks plugin for DeepSeek Harness",
+    "category": "system",
+    "tags": [],
+    "language": "TypeScript",
+    "stars": 7,
+    "updatedAt": "2026-09-11T06:51:46Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/PeterBon/dsh-hooks"
+  },
+  {
+    "owner": "SISCHOI",
+    "repo": "daruma",
+    "description": "No repository description is available yet.",
+    "category": "other",
+    "tags": [
+      "failover"
+    ],
+    "language": "TypeScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T06:50:58Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/SISCHOI/daruma"
+  },
+  {
+    "owner": "Luaphes",
+    "repo": "dsh-plugins-market",
+    "description": "DSH的插件创意市场来啦!～～～欢迎使用&提供反馈！！DSH 插件创意市场 · DeepSeek Harness 插件发现与一键安装面板 全量嗅探官方 dsh-plugin topic（900+），过滤蹭标签噪音，保留人工精选标记； 支持总星数/最新发布/最近推送排序、即时搜索、语言过滤； 点安装先校验 dsh.bundle 声明，装不了的一律拒绝。零依赖零构建，装进 Web UI 的 Plugins 设置区。",
+    "category": "web-ui",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 3,
+    "updatedAt": "2026-09-11T06:50:38Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Luaphes/dsh-plugins-market"
+  },
+  {
+    "owner": "lnyuqian",
+    "repo": "dsh-restart-plugin",
+    "description": "DSH Web 插件：一键重启 DSH Web 宿主（10 秒倒计时、自检探针、状态文件回写），支持静默计划任务触发",
+    "category": "web-ui",
+    "tags": [
+      "developer-tools"
+    ],
+    "language": "JavaScript",
+    "stars": 0,
+    "updatedAt": "2026-09-11T06:50:03Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/lnyuqian/dsh-restart-plugin"
+  },
+  {
+    "owner": "huangruiteng",
+    "repo": "loopx",
+    "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-control-plane",
+      "agent-harness",
+      "agent-ops"
+    ],
+    "language": "Python",
+    "stars": 5788,
+    "updatedAt": "2026-09-11T06:50:00Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/huangruiteng/loopx"
+  },
+  {
+    "owner": "canhta",
+    "repo": "dsh-autopilot",
+    "description": "Turn tickets into pull requests. Powered by DeepSeek Harness.",
+    "category": "agent-automation",
+    "tags": [
+      "ai-agent",
+      "deepseek",
+      "self-hosted"
+    ],
+    "language": "Unknown",
+    "stars": 0,
+    "updatedAt": "2026-09-11T06:49:57Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/canhta/dsh-autopilot"
+  },
+  {
+    "owner": "CoolTea001",
+    "repo": "dsh-cool-theme",
+    "description": "A plugin for changing themes for DSH, with a number of popular default themes built in.",
+    "category": "web-ui",
+    "tags": [
+      "dsh-plugin-market",
+      "dsh-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 2,
+    "updatedAt": "2026-09-11T07:21:10Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/CoolTea001/dsh-cool-theme"
+  },
+  {
+    "owner": "Lenonss",
+    "repo": "DSH_VsCodeMode",
+    "description": "VSCode-style coding for DeepSeek Harness: Monaco editor (tabs/QuickOpen), agent edit-diff review (keep/reject/archive/rollback), LSP intelligence with VSIX installs",
+    "category": "agent-automation",
+    "tags": [
+      "code-review",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins"
+    ],
+    "language": "TypeScript",
+    "stars": 9,
+    "updatedAt": "2026-09-11T06:49:32Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/Lenonss/DSH_VsCodeMode"
   },
   {
     "owner": "Tiee7",
@@ -45,23 +1640,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/Tiee7/EzDSH"
-  },
-  {
-    "owner": "FiretrUCK666",
-    "repo": "dsh-task-board",
-    "description": "DSH Web GUI 的任务看板插件：侧边栏入口 + 五列看板，任务经 DSH 会话真实执行，host 端持久化并跨设备实时同步。Task board plugin for the DeepSeek Harness web GUI.",
-    "category": "web-ui",
-    "tags": [
-      "cordis",
-      "kanban",
-      "plugin"
-    ],
-    "language": "TypeScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:47:45Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/FiretrUCK666/dsh-task-board"
   },
   {
     "owner": "duhu2000",
@@ -113,19 +1691,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/sol5766/dshm"
-  },
-  {
-    "owner": "boe1900",
-    "repo": "owndsh",
-    "description": "The Self-Hosted Control Plane for DeepSeek-Harness",
-    "category": "other",
-    "tags": [],
-    "language": "Java",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:46:33Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/boe1900/owndsh"
   },
   {
     "owner": "gdrpzym",
@@ -197,40 +1762,6 @@
     "githubUrl": "https://github.com/RealAlexandreAI/dsh-atuin"
   },
   {
-    "owner": "canhta",
-    "repo": "dsh-autopilot",
-    "description": "Turn tickets into pull requests. Powered by DeepSeek Harness.",
-    "category": "agent-automation",
-    "tags": [
-      "ai-agent",
-      "deepseek",
-      "self-hosted"
-    ],
-    "language": "Unknown",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:45:48Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/canhta/dsh-autopilot"
-  },
-  {
-    "owner": "DoloresCaritasAngelus",
-    "repo": "DSH-AUX",
-    "description": "Auxiliary model system for DeepSeek Harness: unified aux-LLM routing (per-task model, timeout, concurrency, failure cooldown, main-model fallback) + vision_analyze / web_extract / compress_text tools, settings page, and session image lifecycle cleanup.",
-    "category": "web-ui",
-    "tags": [
-      "auxiliary-model",
-      "cordis",
-      "llm"
-    ],
-    "language": "JavaScript",
-    "stars": 5,
-    "updatedAt": "2026-09-11T06:45:44Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/DoloresCaritasAngelus/DSH-AUX"
-  },
-  {
     "owner": "GreenLv",
     "repo": "dsh-session-insights",
     "description": "Local-first, evidence-backed workflow retrospectives for DeepSeek Harness",
@@ -248,23 +1779,6 @@
     "githubUrl": "https://github.com/GreenLv/dsh-session-insights"
   },
   {
-    "owner": "menantonio83-hue",
-    "repo": "tnt-house",
-    "description": "TNT House - Safe New Tokens Platform",
-    "category": "agent-automation",
-    "tags": [
-      "ai-agents",
-      "mcp-server",
-      "risk-scoring"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:45:22Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/menantonio83-hue/tnt-house"
-  },
-  {
     "owner": "orrinzeng",
     "repo": "dsh-cursor-subscription",
     "description": "Log directly into your Cursor account within DeepSeek Harness and use your Cursor subscription — no API Key required, and no dependency on Cursor IDE or Cursor CLI. 在 DeepSeek Harness 中直接登录 Cursor 账户并使用 Cursor 订阅，不需要 API Key， 也不依赖 Cursor IDE 或 Cursor CLI。",
@@ -280,38 +1794,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/orrinzeng/dsh-cursor-subscription"
-  },
-  {
-    "owner": "zhchxiao123",
-    "repo": "dsh-devflow-plugins",
-    "description": "File-backed development workflow for DeepSeek Harness: durable cards, artifact and agent checks, human approvals, and a read-only web board.",
-    "category": "agent-automation",
-    "tags": [
-      "developer-tools",
-      "devflow",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:44:50Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/zhchxiao123/dsh-devflow-plugins"
-  },
-  {
-    "owner": "buhuikongpan",
-    "repo": "dsh-project-context",
-    "description": "给 DSH 工作区一个用途维度：项目工作区注入项目约定，临时会话（$DSH_HOME/workspace/default，首次运行自动创建）注入『非项目』状态块。侧边栏底部一颗「临时会话」按钮 + 会话头用途徽标。dsh-plugin",
-    "category": "memory-knowledge",
-    "tags": [
-      "project-context"
-    ],
-    "language": "JavaScript",
-    "stars": 3,
-    "updatedAt": "2026-09-11T06:44:28Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/buhuikongpan/dsh-project-context"
   },
   {
     "owner": "chendefine",
@@ -343,36 +1825,6 @@
     "githubUrl": "https://github.com/R-LEI2536/dsh-more-agent-presets"
   },
   {
-    "owner": "LeemanCheung",
-    "repo": "dsh-image-gen",
-    "description": "GPT Image 2 generation with progressive Codex-style previews for DeepSeek Harness",
-    "category": "vision-multimodal",
-    "tags": [
-      "gpt-image-2",
-      "image-generation",
-      "openai"
-    ],
-    "language": "TypeScript",
-    "stars": 3,
-    "updatedAt": "2026-09-11T06:43:03Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/LeemanCheung/dsh-image-gen"
-  },
-  {
-    "owner": "PeterBon",
-    "repo": "dsh-hooks",
-    "description": "Config-driven lifecycle hooks plugin for DeepSeek Harness",
-    "category": "system",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-11T06:42:46Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PeterBon/dsh-hooks"
-  },
-  {
     "owner": "januory",
     "repo": "deepseek-harness-gateway",
     "description": "No repository description is available yet.",
@@ -384,23 +1836,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/januory/deepseek-harness-gateway"
-  },
-  {
-    "owner": "bbqisbbq",
-    "repo": "dsh-tiddlywiki",
-    "description": "No repository description is available yet.",
-    "category": "agent-automation",
-    "tags": [
-      "agent",
-      "agent-tools",
-      "ai"
-    ],
-    "language": "TypeScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:42:37Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/bbqisbbq/dsh-tiddlywiki"
   },
   {
     "owner": "welsione",
@@ -429,23 +1864,6 @@
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/ChisaAlter/Deepseek-Harness-Desktop"
-  },
-  {
-    "owner": "zzy6-a",
-    "repo": "dsh-vision",
-    "description": "DSH Computer Use (vision + desktop control): see the Windows screen through the agent vision channel, drive mouse/keyboard with a Codex-style blue overlay (Esc to abort), plus a composer status pill.",
-    "category": "agent-automation",
-    "tags": [
-      "automation",
-      "computer-use",
-      "vision"
-    ],
-    "language": "PowerShell",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:42:26Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/zzy6-a/dsh-vision"
   },
   {
     "owner": "kongbai-shike",
@@ -528,39 +1946,6 @@
     "githubUrl": "https://github.com/162568316/dsh-tokenrhythm-bill"
   },
   {
-    "owner": "yuu1111",
-    "repo": "dsh-ui-font",
-    "description": "DeepSeek Harness Web GUI plugin: change the UI font family through theme token overrides",
-    "category": "web-ui",
-    "tags": [
-      "cordis",
-      "font"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:39:56Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/yuu1111/dsh-ui-font"
-  },
-  {
-    "owner": "asuramaya",
-    "repo": "osiris",
-    "description": "The persistent memory and coordination graph for AI agents (MCP, DeepSeek Harness, Claude Code, Cursor)",
-    "category": "agent-automation",
-    "tags": [
-      "agentic-ai",
-      "ai",
-      "autonomous-agents"
-    ],
-    "language": "Python",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:39:54Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/asuramaya/osiris"
-  },
-  {
     "owner": "LittleBlackTong",
     "repo": "dsh-plugin-cron",
     "description": "No repository description is available yet.",
@@ -591,87 +1976,6 @@
     "githubUrl": "https://github.com/BrokkAi/bifrost"
   },
   {
-    "owner": "wecode-ai",
-    "repo": "Wegent",
-    "description": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
-    "category": "agent-automation",
-    "tags": [
-      "agent",
-      "ai",
-      "chatbot"
-    ],
-    "language": "TypeScript",
-    "stars": 845,
-    "updatedAt": "2026-09-11T06:40:06Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/wecode-ai/Wegent"
-  },
-  {
-    "owner": "dreamor",
-    "repo": "MemVault",
-    "description": "MemVault — The Shared Memory Layer for Every AI Agent You Run. MCP-native memory router with auto-injection, hybrid search, and zero-config sync.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-memory",
-      "ai-agents",
-      "ai-memory"
-    ],
-    "language": "Rust",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:38:41Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/dreamor/MemVault"
-  },
-  {
-    "owner": "Lenonss",
-    "repo": "DSH_VsCodeMode",
-    "description": "VSCode-style coding for DeepSeek Harness: Monaco editor (tabs/QuickOpen), agent edit-diff review (keep/reject/archive/rollback), LSP intelligence with VSIX installs",
-    "category": "agent-automation",
-    "tags": [
-      "code-review",
-      "deepseek-harness-plugin",
-      "deepseek-harness-plugins"
-    ],
-    "language": "TypeScript",
-    "stars": 9,
-    "updatedAt": "2026-09-11T06:38:24Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Lenonss/DSH_VsCodeMode"
-  },
-  {
-    "owner": "sz1698",
-    "repo": "dsh-bg-new",
-    "description": "DSH 网页界面换背景：侧栏「壁纸」按钮弹出右侧抽屉，支持系统预设/纯色/渐变/图片/视频，滚轮+拖动小图同时管缩放与定位，毛玻璃质感，本地媒体伺服不走云端。DSH web background & wallpaper plugin with drawer UI, glassmorphism and local media serving.",
-    "category": "web-ui",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:38:20Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/sz1698/dsh-bg-new"
-  },
-  {
-    "owner": "inclusionAI",
-    "repo": "Avernet",
-    "description": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-coordination",
-      "agent-infrastructure",
-      "agent-orgnaization"
-    ],
-    "language": "Python",
-    "stars": 547,
-    "updatedAt": "2026-09-11T06:37:40Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/inclusionAI/Avernet"
-  },
-  {
     "owner": "fengbai2233",
     "repo": "dsh-pwsh-quoting-guard",
     "description": "DSH plugin: pwsh_script + run_argv — structural immunity to PowerShell command-string quoting errors on Windows.",
@@ -687,40 +1991,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/fengbai2233/dsh-pwsh-quoting-guard"
-  },
-  {
-    "owner": "alpacachen",
-    "repo": "dsh-kanban",
-    "description": "A shared kanban board for people and AI agents in DeepSeek Harness.",
-    "category": "agent-automation",
-    "tags": [
-      "ai-agent",
-      "kanban",
-      "project-management"
-    ],
-    "language": "JavaScript",
-    "stars": 10,
-    "updatedAt": "2026-09-11T06:37:17Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/alpacachen/dsh-kanban"
-  },
-  {
-    "owner": "kenz1117",
-    "repo": "dsh-engram",
-    "description": "No repository description is available yet.",
-    "category": "agent-automation",
-    "tags": [
-      "agent",
-      "awesome-dsh-plugin",
-      "embeddings"
-    ],
-    "language": "TypeScript",
-    "stars": 2,
-    "updatedAt": "2026-09-11T06:37:05Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/kenz1117/dsh-engram"
   },
   {
     "owner": "welsione",
@@ -800,23 +2070,6 @@
     "githubUrl": "https://github.com/baicaibucai1/dsh-process-control"
   },
   {
-    "owner": "volcengine",
-    "repo": "OpenViking",
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-memory",
-      "agent-plugins",
-      "agentic-rag"
-    ],
-    "language": "Python",
-    "stars": 36580,
-    "updatedAt": "2026-09-11T06:46:48Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "owner": "2BingLing",
     "repo": "dsh-market",
     "description": "DeepSeek Harness 插件市场 · 持续收录 6000+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 6000+ plugins, Chinese search, 5-dim scoring, one-click install.",
@@ -866,23 +2119,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/duhu2000/dsh-data-cleaning-agent"
-  },
-  {
-    "owner": "KCNyu",
-    "repo": "clawock",
-    "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by code the model never touches. Install the same decision workflow into your own agent: OpenClaw, Claude Code, Codex, or DeepSeek Harness.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-skills",
-      "agentic-ai",
-      "ai-agents"
-    ],
-    "language": "Python",
-    "stars": 14,
-    "updatedAt": "2026-09-11T06:34:40Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/KCNyu/clawock"
   },
   {
     "owner": "XMeowchan",
@@ -973,23 +2209,6 @@
     "githubUrl": "https://github.com/SparkElf/dsh-plugins-plus"
   },
   {
-    "owner": "nexu-io",
-    "repo": "open-design",
-    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-skills",
-      "ai-design",
-      "byok"
-    ],
-    "language": "TypeScript",
-    "stars": 95486,
-    "updatedAt": "2026-09-11T06:32:20Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/nexu-io/open-design"
-  },
-  {
     "owner": "ManoloRemiddi",
     "repo": "DSH-Metafolder-Plugin",
     "description": "DSH Metafolder Plugin — visual meta-folders for the DeepSeek Harness sidebar workspaces: nest real folders under named, coloured groups by drag and drop, without touching paths, permissions, sessions or workspace order.",
@@ -1024,23 +2243,6 @@
     "githubUrl": "https://github.com/pulseaiclub/phi"
   },
   {
-    "owner": "dsh-tauri-desk",
-    "repo": "deepseek-harness-desktop",
-    "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-    "category": "desktop-terminal",
-    "tags": [
-      "deepseek",
-      "desktop",
-      "dsh-desktop"
-    ],
-    "language": "TypeScript",
-    "stars": 1911,
-    "updatedAt": "2026-09-11T06:44:11Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop"
-  },
-  {
     "owner": "zc679087",
     "repo": "dsh-skill-preferences",
     "description": "一个可以管理DSH上安装的skill的插件，可以动态开关skill来防止误触发",
@@ -1054,23 +2256,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/zc679087/dsh-skill-preferences"
-  },
-  {
-    "owner": "ccch1mneyyy",
-    "repo": "dsh-TUI",
-    "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-    "category": "agent-automation",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "deepseek"
-    ],
-    "language": "TypeScript",
-    "stars": 2952,
-    "updatedAt": "2026-09-11T06:39:22Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/ccch1mneyyy/dsh-TUI"
   },
   {
     "owner": "liudejua27-blip",
@@ -1154,38 +2339,6 @@
     "githubUrl": "https://github.com/openma-ai/backchat"
   },
   {
-    "owner": "runcat-tommy",
-    "repo": "dsh-chinese-poetry",
-    "description": "A token-free Chinese classical poetry plugin for DeepSeek Harness Web: search, filters, Feihua, daily poem, favorites, and AI explain. Powered by the free public chinese-poetry-api.",
-    "category": "web-ui",
-    "tags": [
-      "chinese-poetry",
-      "classical-chinese-poetry",
-      "deepseek-harness-plugin"
-    ],
-    "language": "JavaScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:28:15Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/runcat-tommy/dsh-chinese-poetry"
-  },
-  {
-    "owner": "vclike",
-    "repo": "dsh-github-companion",
-    "description": "DeepSeek Harness 插件：AI 操作 GitHub 的完整集成——33 个 REST/GraphQL 工具 + 进程内权限门 + 成本纪律 companion skill — DeepSeek Harness plugin: complete GitHub integration for AI agents, 33 tools, permission gate, companion skill.",
-    "category": "agent-automation",
-    "tags": [
-      "dsh-plugins"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:27:52Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/vclike/dsh-github-companion"
-  },
-  {
     "owner": "bruc3van",
     "repo": "dsh-desktop-safe-market",
     "description": "唯一主打安全，提倡先审查再安装的DeepSeek Harness市场。深度扫描 5 分钟，放心使用每一天。npm: dsh-desktop-safe-market",
@@ -1211,8 +2364,8 @@
       "plugin"
     ],
     "language": "JavaScript",
-    "stars": 77,
-    "updatedAt": "2026-09-11T06:27:51Z",
+    "stars": 78,
+    "updatedAt": "2026-09-11T07:11:36Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/ymh0000123/dsh-theme-endfield"
@@ -1276,7 +2429,7 @@
     ],
     "language": "JavaScript",
     "stars": 6,
-    "updatedAt": "2026-09-11T06:26:06Z",
+    "updatedAt": "2026-09-11T06:53:33Z",
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/rayafriandion/dsh-oc-tui"
@@ -1364,23 +2517,6 @@
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/melandlabs/opencontext"
-  },
-  {
-    "owner": "ruvnet",
-    "repo": "ruflo",
-    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "category": "agent-automation",
-    "tags": [
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow"
-    ],
-    "language": "TypeScript",
-    "stars": 72026,
-    "updatedAt": "2026-09-11T06:45:48Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/ruvnet/ruflo"
   },
   {
     "owner": "MAXeaglet",
@@ -1562,23 +2698,6 @@
     "githubUrl": "https://github.com/zuoyunlai/lunheng-article-pipeline-dsh"
   },
   {
-    "owner": "GCWing",
-    "repo": "OpenBitFun",
-    "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-teams",
-      "agentic",
-      "agentic-os"
-    ],
-    "language": "Rust",
-    "stars": 2121,
-    "updatedAt": "2026-09-11T06:29:31Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/GCWing/OpenBitFun"
-  },
-  {
     "owner": "KyoMio",
     "repo": "dsh-zen-remote",
     "description": "Turn DeepSeek Harness into a phone app you can securely reach from anywhere: minimal mobile UI rework + pairing-code gateway + PWA + Web Push. 让 DSH 变成可公网安全访问的手机 App",
@@ -1594,23 +2713,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/KyoMio/dsh-zen-remote"
-  },
-  {
-    "owner": "wenzetan",
-    "repo": "dsh-llm-newapi",
-    "description": "NewAPI (OpenAI-compatible gateway) LLM provider plugin for DeepSeek Harness (dsh): chat-only model discovery + Web settings section. Zero dsh modifications.",
-    "category": "web-ui",
-    "tags": [
-      "llm",
-      "newapi",
-      "openai-compatible"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-11T06:16:00Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/wenzetan/dsh-llm-newapi"
   },
   {
     "owner": "songoao25",
@@ -1696,23 +2798,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/aa2246740/dsh-oauth-login"
-  },
-  {
-    "owner": "superdesigndev",
-    "repo": "treg",
-    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-    "category": "agent-automation",
-    "tags": [
-      "agents",
-      "api-keys",
-      "cli"
-    ],
-    "language": "Python",
-    "stars": 1350,
-    "updatedAt": "2026-09-11T06:41:17Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/superdesigndev/treg"
   },
   {
     "owner": "aa2246740",
@@ -1811,19 +2896,6 @@
     "githubUrl": "https://github.com/aust24lzy/dsh-plugin-hub"
   },
   {
-    "owner": "weibaohui",
-    "repo": "dsh-kb",
-    "description": "dsh 插件 · 团队知识库：离线知识共享（FDE 盒子），浏览/全文检索/加工入口；写路径收口 agent，基于 Karpathy LLM Wiki 模式",
-    "category": "agent-automation",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T06:12:55Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/weibaohui/dsh-kb"
-  },
-  {
     "owner": "SiriusNEO",
     "repo": "d.sh",
     "description": "Minimal agent harness in one Bash file. One-line quick start. Bootloader agent for bare-metal servers.",
@@ -1873,23 +2945,6 @@
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "owner": "alibaba",
-    "repo": "anolisa",
-    "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-infrastructure",
-      "agent-memory",
-      "agent-runtime"
-    ],
-    "language": "Rust",
-    "stars": 603,
-    "updatedAt": "2026-09-11T06:11:44Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/alibaba/anolisa"
   },
   {
     "owner": "Khorsheed",
@@ -2018,19 +3073,6 @@
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/agentscope-ai/ReMe"
-  },
-  {
-    "owner": "wingsky-1",
-    "repo": "dsh-plugin-hub",
-    "description": "DSH (DeepSeek Harness) web GUI plugin collection — notifications, provider usage, LAN proxy, MCP manager, codegraph, file preview. Adapts to dsh 0.1.2-alpha.3. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all",
-    "category": "web-ui",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 16,
-    "updatedAt": "2026-09-11T06:12:28Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/wingsky-1/dsh-plugin-hub"
   },
   {
     "owner": "Imzl-zl",
@@ -2208,6 +3250,23 @@
     "githubUrl": "https://github.com/duhu2000/dsh-pre-duediligence"
   },
   {
+    "owner": "omdsh-dev",
+    "repo": "dsh-mnemon",
+    "description": "Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.",
+    "category": "agent-automation",
+    "tags": [
+      "agent-memory",
+      "context-management",
+      "cross-session-memory"
+    ],
+    "language": "TypeScript",
+    "stars": 359,
+    "updatedAt": "2026-09-11T07:23:46Z",
+    "status": "Popular",
+    "install": null,
+    "githubUrl": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
     "owner": "Zhiyuan-Fan",
     "repo": "Awesome-DeepSeek-Harness-Plugins",
     "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
@@ -2275,21 +3334,6 @@
     "githubUrl": "https://github.com/starwish-ai/xingyuan-dsh"
   },
   {
-    "owner": "stultuss",
-    "repo": "dsh-clear-tool-results",
-    "description": "DSH 宿主插件：每轮对话结束后，把该轮的原始工具结果归档（tool result）到会话目录（tool-result-logs），并从上下文中清除，减少 Token 消耗；模型可用 read_tool_result_log 工具按轮次或时间自主读取归档数据。",
-    "category": "tools",
-    "tags": [
-      "clear-tool-result"
-    ],
-    "language": "JavaScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T06:01:38Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/stultuss/dsh-clear-tool-results"
-  },
-  {
     "owner": "pgmi-builds",
     "repo": "better-dsh",
     "description": "Make your dsh ready for serious coding. (Tools x Schemas)^REPL. skill://, ctx://, agent://, dvc://, dsh://, IPython REPL, Context as Variables, cross compaction recallable, full context revive. hash-edit, dvc://browser, subagent as a function, workflow as a function.",
@@ -2334,21 +3378,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/publieople/dsh-chat-offscreen"
-  },
-  {
-    "owner": "huahai0202",
-    "repo": "dsh-better-archive",
-    "description": "DeepSeek Harness (DSH) web-GUI plugin: archived-session panel with unarchive & delete",
-    "category": "web-ui",
-    "tags": [
-      "cordis"
-    ],
-    "language": "JavaScript",
-    "stars": 9,
-    "updatedAt": "2026-09-11T06:01:04Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/huahai0202/dsh-better-archive"
   },
   {
     "owner": "littleblakew",
@@ -2600,19 +3629,6 @@
     "githubUrl": "https://github.com/writeCasually/deepseek-harness-plugins"
   },
   {
-    "owner": "flizzywine",
-    "repo": "dsh-tavern",
-    "description": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-    "category": "agent-automation",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 250,
-    "updatedAt": "2026-09-11T06:27:52Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/flizzywine/dsh-tavern"
-  },
-  {
     "owner": "Xieweikang123",
     "repo": "dsh-plugin-quote",
     "description": "DeepSeek Harness Web plugin: quote a text selection into the composer as a markdown blockquote.",
@@ -2733,22 +3749,6 @@
     "githubUrl": "https://github.com/winliyou/dsh-plugins"
   },
   {
-    "owner": "Justin-sky",
-    "repo": "ai-art-engine",
-    "description": "AI 艺术创作引擎，专业的短视频创作工具",
-    "category": "system",
-    "tags": [
-      "3d-modeling",
-      "artist"
-    ],
-    "language": "TypeScript",
-    "stars": 122,
-    "updatedAt": "2026-09-11T05:49:53Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/Justin-sky/ai-art-engine"
-  },
-  {
     "owner": "enoughpower",
     "repo": "dsh-desktop-mac",
     "description": "DeepSeekHarnessMac精简版",
@@ -2831,19 +3831,6 @@
     "githubUrl": "https://github.com/loommii/dsh-input-history"
   },
   {
-    "owner": "wsxwj123",
-    "repo": "dsh-plugins",
-    "description": "Independent plugins for DeepSeek Harness, organized as isolated packages in one monorepo.",
-    "category": "other",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 7,
-    "updatedAt": "2026-09-11T05:48:52Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/wsxwj123/dsh-plugins"
-  },
-  {
     "owner": "tonytanglab",
     "repo": "deepseek-harness-relay-mcp",
     "description": "Delegate long-running work to DeepSeek Harness from any MCP agent—and monitor it to completion.",
@@ -2875,39 +3862,6 @@
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/HanaAyane/dsh-reasoning-effort"
-  },
-  {
-    "owner": "evoelsewhere",
-    "repo": "evoflux",
-    "description": "Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel. Connect any model, keep control of your workspace and data, and take complex work from idea to completion—all in one place.",
-    "category": "agent-automation",
-    "tags": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-coding-assistant"
-    ],
-    "language": "Python",
-    "stars": 8,
-    "updatedAt": "2026-09-11T06:20:39Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/evoelsewhere/evoflux"
-  },
-  {
-    "owner": "MichengAI",
-    "repo": "dsh-codex-desktop",
-    "description": "DeepSeek Harness Codex Desktop — 无需预装环境、开箱即用的跨平台桌面客户端 · A ready-to-use cross-platform DeepSeek Harness desktop client with no environment setup",
-    "category": "desktop-terminal",
-    "tags": [
-      "deepseek",
-      "dsh-plugins"
-    ],
-    "language": "TypeScript",
-    "stars": 69,
-    "updatedAt": "2026-09-11T06:39:07Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/MichengAI/dsh-codex-desktop"
   },
   {
     "owner": "Glazyonyt",
@@ -3622,8 +4576,8 @@
       "architecture-diagram"
     ],
     "language": "JavaScript",
-    "stars": 57756,
-    "updatedAt": "2026-09-11T06:49:30Z",
+    "stars": 57799,
+    "updatedAt": "2026-09-11T07:23:37Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/tt-a1i/archify"
@@ -3655,28 +4609,11 @@
       "ai-agent"
     ],
     "language": "TypeScript",
-    "stars": 24610,
-    "updatedAt": "2026-09-11T06:48:31Z",
+    "stars": 24611,
+    "updatedAt": "2026-09-11T07:14:07Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/titanwings/distilly"
-  },
-  {
-    "owner": "Devin-AXIS",
-    "repo": "iPolloWork",
-    "description": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-collaboration",
-      "agent-skills",
-      "ai-agents"
-    ],
-    "language": "TypeScript",
-    "stars": 5758,
-    "updatedAt": "2026-09-11T06:40:35Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/Devin-AXIS/iPolloWork"
   },
   {
     "owner": "Amouren7",
@@ -3721,40 +4658,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/harness-home/harness-ai-plugins"
-  },
-  {
-    "owner": "omdsh-dev",
-    "repo": "dsh-mnemon",
-    "description": "Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-memory",
-      "context-management",
-      "cross-session-memory"
-    ],
-    "language": "TypeScript",
-    "stars": 358,
-    "updatedAt": "2026-09-11T05:16:07Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/omdsh-dev/dsh-mnemon"
-  },
-  {
-    "owner": "FeatherHunter",
-    "repo": "dsh-mattpocock-skills-deck",
-    "description": "Matt Pocock 技能面板（DSH Deck）：安装即自带 25 个工程与效率技能（mattpocock/skills v1.2.3：triage、grilling、wayfinder、handoff 等），右侧面板直接调用，无需手动装技能。当前主力支持 GitHub issue；Markdown 本地文件为预览版；GitLab 暂不在支持范围。希望它能帮你把想法更快变成现实。",
-    "category": "agent-automation",
-    "tags": [
-      "agent",
-      "ai",
-      "claude"
-    ],
-    "language": "JavaScript",
-    "stars": 59,
-    "updatedAt": "2026-09-11T05:52:22Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
   },
   {
     "owner": "suomir1995",
@@ -4223,21 +5126,6 @@
     "githubUrl": "https://github.com/uigdwunm/dsh-conversation-jump"
   },
   {
-    "owner": "ice5kysl",
-    "repo": "dsh-insights",
-    "description": "DSH Insights — the DeepSeek Harness ecosystem observatory: full-corpus plugin discovery, manifest-gated authoritative set, objective health scores (S/A–D), official dynamics, author analytics, weekly ecosystem reports, open data + badges. Zero-dependency Node pipeline.",
-    "category": "system",
-    "tags": [
-      "plugin-ecosystem"
-    ],
-    "language": "HTML",
-    "stars": 0,
-    "updatedAt": "2026-09-11T04:52:10Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/ice5kysl/dsh-insights"
-  },
-  {
     "owner": "Y1X1n",
     "repo": "dsh-prompt-optimizer",
     "description": "针对Deepseek Harness开发的提示词优化插件，感谢Jerry(@ruijiaang-lab)开发Mac端",
@@ -4346,23 +5234,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/hrhgit/deepseek-harness-plugin-manager"
-  },
-  {
-    "owner": "huangruiteng",
-    "repo": "loopx",
-    "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-control-plane",
-      "agent-harness",
-      "agent-ops"
-    ],
-    "language": "Python",
-    "stars": 5788,
-    "updatedAt": "2026-09-11T06:39:09Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/huangruiteng/loopx"
   },
   {
     "owner": "GreenLv",
@@ -4920,23 +5791,6 @@
     "githubUrl": "https://github.com/bruc3van/dsh-desktop"
   },
   {
-    "owner": "whiteguo233",
-    "repo": "OpenBiliClaw",
-    "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
-    "category": "agent-automation",
-    "tags": [
-      "ai-agent",
-      "bilibili",
-      "chrome-extension"
-    ],
-    "language": "Python",
-    "stars": 3281,
-    "updatedAt": "2026-09-11T04:23:41Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/whiteguo233/OpenBiliClaw"
-  },
-  {
     "owner": "rootkiller6788",
     "repo": "dsh-launcher",
     "description": "释放 DeepSeek Harness 插件化内核能力，将 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排，让 Harness 真正成为可扩展、可组合、可管理的本地 AI 运行平台。",
@@ -5010,8 +5864,8 @@
       "sidebar"
     ],
     "language": "TypeScript",
-    "stars": 3508,
-    "updatedAt": "2026-09-11T06:40:37Z",
+    "stars": 3509,
+    "updatedAt": "2026-09-11T06:56:23Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/omdsh-dev/DSH-better-sidebar"
@@ -5181,23 +6035,6 @@
     "githubUrl": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
   },
   {
-    "owner": "qw457812",
-    "repo": "dotfiles",
-    "description": "My dotfiles on macOS and Termux, managed with Chezmoi.",
-    "category": "files-content",
-    "tags": [
-      "chezmoi",
-      "dotfiles",
-      "macos"
-    ],
-    "language": "Lua",
-    "stars": 5,
-    "updatedAt": "2026-09-11T04:09:29Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/qw457812/dotfiles"
-  },
-  {
     "owner": "wuwaka",
     "repo": "dsh-clipboard-menu",
     "description": "Adds a right-click cut/copy/paste/select-all menu to DeepSeek Harness composer inputs.",
@@ -5260,23 +6097,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/xtxo/dsh-ui"
-  },
-  {
-    "owner": "tafcear",
-    "repo": "kimi-tide",
-    "description": "🌊 月汐（kimi-tide）— DSH 的「每一步自动选模型」插件：贴图自动走能看图的模型，写代码走编码模型，闲聊翻译走便宜模型，每次选了谁、为什么，面板看得见 · The per-step model router for DeepSeek Harness: any connected model, routed by your rules",
-    "category": "agent-automation",
-    "tags": [
-      "deepseek",
-      "kimi",
-      "kimi-code"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-11T04:07:16Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/tafcear/kimi-tide"
   },
   {
     "owner": "SunshineR04",
@@ -5522,23 +6342,6 @@
     "githubUrl": "https://github.com/lansi-ai/dsh-forge"
   },
   {
-    "owner": "Vithrive",
-    "repo": "dsh-livebench-panel",
-    "description": "DSH web plugin: a LiveBench tab in the Trajectory view. Run LiveBench evaluations against every model configured in the DeepSeek Harness and read scores in place.",
-    "category": "web-ui",
-    "tags": [
-      "benchmark",
-      "livebench",
-      "llm-evaluation"
-    ],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T03:58:59Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Vithrive/dsh-livebench-panel"
-  },
-  {
     "owner": "fan56",
     "repo": "dsh-tui-pi",
     "description": "A fully-featured pi-style terminal UI for DeepSeek Harness (dsh) — history look-back & fork-at-turn, guided preset switching, live subagent steering, model profiles & themes.",
@@ -5777,8 +6580,8 @@
       "ai-agents"
     ],
     "language": "TypeScript",
-    "stars": 1859,
-    "updatedAt": "2026-09-11T06:42:11Z",
+    "stars": 1862,
+    "updatedAt": "2026-09-11T07:06:00Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/MemTensor/memmy-agent"
@@ -6121,19 +6924,6 @@
     "githubUrl": "https://github.com/fan56/dsh-vault"
   },
   {
-    "owner": "advance-lion",
-    "repo": "dsh-brand",
-    "description": "方便魔改作者轻量化自定义商标",
-    "category": "other",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T03:39:18Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/advance-lion/dsh-brand"
-  },
-  {
     "owner": "Baiiduu",
     "repo": "dsh-semgrep-sast",
     "description": "No repository description is available yet.",
@@ -6397,8 +7187,8 @@
       "pentest"
     ],
     "language": "JavaScript",
-    "stars": 431,
-    "updatedAt": "2026-09-11T06:10:38Z",
+    "stars": 432,
+    "updatedAt": "2026-09-11T06:56:08Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/howmp/dsh-pentest"
@@ -6706,23 +7496,6 @@
     "githubUrl": "https://github.com/863683348/dsh-feed"
   },
   {
-    "owner": "kovey",
-    "repo": "dsh-nvim-tui",
-    "description": "Neovim-style TUI for DeepSeek Harness (dsh): nvim renders the terminal, a Node runner bridges DSH agent events over msgpack-RPC — sessions, tool cards, reasoning panel, approvals, markdown tables",
-    "category": "agent-automation",
-    "tags": [
-      "agent",
-      "agentic-ai",
-      "dsh-tui"
-    ],
-    "language": "TypeScript",
-    "stars": 4,
-    "updatedAt": "2026-09-11T05:56:16Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/kovey/dsh-nvim-tui"
-  },
-  {
     "owner": "licyer",
     "repo": "dsh-token-monitor",
     "description": "DSH Web 模型余量与用量监控插件",
@@ -6824,8 +7597,8 @@
       "deepseek-harness-plugin"
     ],
     "language": "TypeScript",
-    "stars": 516,
-    "updatedAt": "2026-09-11T06:32:31Z",
+    "stars": 517,
+    "updatedAt": "2026-09-11T06:58:16Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/LivXue/dsh-plugin-shop"
@@ -7190,6 +7963,19 @@
     "githubUrl": "https://github.com/jonah791/dsh-agent-self-test"
   },
   {
+    "owner": "X1A0BAN",
+    "repo": "dsh-survival-mode",
+    "description": "No repository description is available yet.",
+    "category": "other",
+    "tags": [],
+    "language": "JavaScript",
+    "stars": 1,
+    "updatedAt": "2026-09-11T06:54:19Z",
+    "status": "New",
+    "install": null,
+    "githubUrl": "https://github.com/X1A0BAN/dsh-survival-mode"
+  },
+  {
     "owner": "geeklei",
     "repo": "dsh-plugins",
     "description": "一个面向 DeepSeek Harness (dsh)的插件库",
@@ -7229,8 +8015,8 @@
       "cordis"
     ],
     "language": "TypeScript",
-    "stars": 219651,
-    "updatedAt": "2026-09-11T06:48:41Z",
+    "stars": 219705,
+    "updatedAt": "2026-09-11T07:24:15Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/deepseek-ai/deepseek-harness"
@@ -7298,19 +8084,6 @@
     "githubUrl": "https://github.com/IcedWatermelonJuice/dsh-provider-veark"
   },
   {
-    "owner": "zuohaisu",
-    "repo": "dsh-ai-soul",
-    "description": "Persistent identity layer for DeepSeek Harness. The first reference implementation of AI Soul.",
-    "category": "other",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 3,
-    "updatedAt": "2026-09-11T03:01:51Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/zuohaisu/dsh-ai-soul"
-  },
-  {
     "owner": "Fishsb",
     "repo": "dsh-project-nav",
     "description": "Anti-drift project governance plugin for DSH — bidirectional feature-map, mainline vector, architecture-first protocol | DSH 项目反漂移治理插件",
@@ -7326,19 +8099,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/Fishsb/dsh-project-nav"
-  },
-  {
-    "owner": "Enosensu",
-    "repo": "dsh-fork-relink",
-    "description": "DSH fork 伴随插件:fork 后自动重链子 agent 记录到新会话 / Auto-relink subagent records to a forked DSH session. Co-developed with AI.",
-    "category": "agent-automation",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T02:59:47Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Enosensu/dsh-fork-relink"
   },
   {
     "owner": "saya-ch",
@@ -7422,23 +8182,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/sharedcare/dsh-conversation-rollback"
-  },
-  {
-    "owner": "huangyuheng",
-    "repo": "dsh-token-use",
-    "description": "实时 Token 用量仪表盘 · Real-time token usage dashboard for DeepSeek Harness — live totals, filters by model/day/month/project, smooth trend chart.",
-    "category": "system",
-    "tags": [
-      "dashboard",
-      "echarts",
-      "token-usage"
-    ],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T02:54:50Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/huangyuheng/dsh-token-use"
   },
   {
     "owner": "wentao75",
@@ -7587,21 +8330,6 @@
     "githubUrl": "https://github.com/sidleo/llm-wiki"
   },
   {
-    "owner": "helloproblems",
-    "repo": "dsh-browser-use",
-    "description": "为 DeepSeek Harness (DSH) 插件生态打造的浏览器自动化插件",
-    "category": "web-ui",
-    "tags": [
-      "cordis"
-    ],
-    "language": "TypeScript",
-    "stars": 1,
-    "updatedAt": "2026-09-11T02:46:27Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/helloproblems/dsh-browser-use"
-  },
-  {
     "owner": "Mars-Sea",
     "repo": "dsh-commandcode-provider",
     "description": "Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.",
@@ -7612,8 +8340,8 @@
       "llm"
     ],
     "language": "TypeScript",
-    "stars": 194,
-    "updatedAt": "2026-09-11T06:22:45Z",
+    "stars": 196,
+    "updatedAt": "2026-09-11T07:14:10Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/Mars-Sea/dsh-commandcode-provider"
@@ -7660,23 +8388,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/Diluka/dsh-persona"
-  },
-  {
-    "owner": "vshulcz",
-    "repo": "deja-vu",
-    "description": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-memory",
-      "ai-memory",
-      "claude-code"
-    ],
-    "language": "Go",
-    "stars": 800,
-    "updatedAt": "2026-09-11T02:42:36Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/vshulcz/deja-vu"
   },
   {
     "owner": "Luck9Star",
@@ -7805,36 +8516,6 @@
     "githubUrl": "https://github.com/Victor-770/dsh-plugin-directory"
   },
   {
-    "owner": "bailong-Hakuryu",
-    "repo": "dsh-security-assurance",
-    "description": "DeepSeek Harness 策略驱动的仓库安全评估插件，支持包生命周期评估、证据、发现、裁决、导出和 /security 指令。 | Policy-driven repository security assurance plugin for DeepSeek Harness with package lifecycle assessments, evidence, findings, verdicts, exports, and /security routing.",
-    "category": "security-ops",
-    "tags": [
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-11T02:35:12Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/bailong-Hakuryu/dsh-security-assurance"
-  },
-  {
-    "owner": "bailong-Hakuryu",
-    "repo": "dsh-engineering-control-plane",
-    "description": "DeepSeek Harness 工程任务编排与发布门禁插件，支持 /mission 指令、任务路由、计划执行、验证和状态跟踪。 | Engineering mission orchestration and release-gate plugin for DeepSeek Harness with /mission routing, planning, execution, verification, and status tracking.",
-    "category": "agent-automation",
-    "tags": [
-      "typescript"
-    ],
-    "language": "HTML",
-    "stars": 0,
-    "updatedAt": "2026-09-11T02:35:06Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/bailong-Hakuryu/dsh-engineering-control-plane"
-  },
-  {
     "owner": "zilliztech",
     "repo": "memsearch",
     "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
@@ -7862,8 +8543,8 @@
       "dsh-web-ui"
     ],
     "language": "TypeScript",
-    "stars": 7368,
-    "updatedAt": "2026-09-11T06:39:20Z",
+    "stars": 7371,
+    "updatedAt": "2026-09-11T07:15:26Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/zhu1090093659/dsh-web"
@@ -8358,38 +9039,6 @@
     "githubUrl": "https://github.com/yindf/taskfold"
   },
   {
-    "owner": "TheYoungChen",
-    "repo": "dsh-plugin-market",
-    "description": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
-    "category": "search-research",
-    "tags": [
-      "deepseek-harness-plugin",
-      "dsh-plugins"
-    ],
-    "language": "JavaScript",
-    "stars": 4,
-    "updatedAt": "2026-09-11T01:59:48Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/TheYoungChen/dsh-plugin-market"
-  },
-  {
-    "owner": "gehennawu",
-    "repo": "dsh-service",
-    "description": "DSH Web 一站式运维面板：安全重启、健康诊断、模型用量与额度查询、会话管理、备份与权限维护、任务通知、技能与子代理模型路由。｜All-in-one operations panel for DSH Web: safe restart , health diagnostics, model usage & quota lookup, session management, backup & permission maintenance, task notifications, skills & subagent model routing.",
-    "category": "agent-automation",
-    "tags": [
-      "deepseek",
-      "operations"
-    ],
-    "language": "JavaScript",
-    "stars": 5,
-    "updatedAt": "2026-09-11T01:59:30Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/gehennawu/dsh-service"
-  },
-  {
     "owner": "icanfinish11",
     "repo": "dsh_superpowers",
     "description": "Superpowers for the DeepSeek Harness: a dsh plugin that registers the Superpowers skills as a skill catalog and injects the using-superpowers bootstrap into the system prompt.",
@@ -8545,8 +9194,8 @@
       "markdown-converter"
     ],
     "language": "TypeScript",
-    "stars": 150,
-    "updatedAt": "2026-09-11T06:28:58Z",
+    "stars": 151,
+    "updatedAt": "2026-09-11T07:00:30Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/zuorn/Tydora"
@@ -8694,8 +9343,8 @@
       "hacktoberfest"
     ],
     "language": "TypeScript",
-    "stars": 42451,
-    "updatedAt": "2026-09-11T06:35:17Z",
+    "stars": 42453,
+    "updatedAt": "2026-09-11T07:17:32Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/reactive-resume/app"
@@ -8780,22 +9429,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/ddtcorex/dsh-maestro-mobile"
-  },
-  {
-    "owner": "ysr666",
-    "repo": "dsh-vision-router",
-    "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-    "category": "agent-automation",
-    "tags": [
-      "multimodal",
-      "vision"
-    ],
-    "language": "JavaScript",
-    "stars": 1096,
-    "updatedAt": "2026-09-11T05:54:59Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/ysr666/dsh-vision-router"
   },
   {
     "owner": "Harzva",
@@ -8948,8 +9581,8 @@
       "dsh-agent-teams"
     ],
     "language": "JavaScript",
-    "stars": 1529,
-    "updatedAt": "2026-09-11T06:44:25Z",
+    "stars": 1532,
+    "updatedAt": "2026-09-11T07:23:46Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/NanmiCoder/dsh-agent-teams"
@@ -9373,23 +10006,6 @@
     "githubUrl": "https://github.com/kirbylynx/deepshell-agent"
   },
   {
-    "owner": "kenz1117",
-    "repo": "dsh-ui-usage-billing",
-    "description": "Usage billing dashboard plugin for DeepSeek Harness: sidebar cost metrics, real usage aggregation from session logs, current multi-provider pricing catalog",
-    "category": "web-ui",
-    "tags": [
-      "billing",
-      "dashboard",
-      "deepseek-harness-plugins"
-    ],
-    "language": "TypeScript",
-    "stars": 42,
-    "updatedAt": "2026-09-11T06:34:16Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/kenz1117/dsh-ui-usage-billing"
-  },
-  {
     "owner": "limbo947",
     "repo": "dsh-recall-plugin",
     "description": "v0.1.2-rc.1 DSH 消息撤回插件：回到发送该消息时的状态 DSH Message Recall Plugin: Return to the state when the message was sent",
@@ -9422,23 +10038,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/KeepLost/harniverse"
-  },
-  {
-    "owner": "Blackman99",
-    "repo": "codsh",
-    "description": "/ship takes one sentence to verified code. Terminal coding agent for DeepSeek and any compatible endpoint.",
-    "category": "agent-automation",
-    "tags": [
-      "ai-agent",
-      "cli",
-      "coding-agent"
-    ],
-    "language": "TypeScript",
-    "stars": 3,
-    "updatedAt": "2026-09-11T00:21:10Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Blackman99/codsh"
   },
   {
     "owner": "shengmk",
@@ -10523,8 +11122,8 @@
       "deepseek-harness-desktop"
     ],
     "language": "Rust",
-    "stars": 108,
-    "updatedAt": "2026-09-10T20:07:23Z",
+    "stars": 109,
+    "updatedAt": "2026-09-11T07:07:01Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/baihejiangnan/deepseek-harness-desktop"
@@ -10654,23 +11253,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/jonah791/dsh-life-core"
-  },
-  {
-    "owner": "Vladimir-Human",
-    "repo": "ru-marketplace-mcp",
-    "description": "Одиннадцать маркетплейсов как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
-    "category": "tools",
-    "tags": [
-      "aliexpress",
-      "avito",
-      "citilink"
-    ],
-    "language": "Python",
-    "stars": 91,
-    "updatedAt": "2026-09-10T19:51:45Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
   },
   {
     "owner": "GooDAnDReaDY",
@@ -11567,8 +12149,8 @@
       "ai"
     ],
     "language": "Rust",
-    "stars": 5902,
-    "updatedAt": "2026-09-11T06:43:10Z",
+    "stars": 5903,
+    "updatedAt": "2026-09-11T06:58:37Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/ZSeven-W/openpencil"
@@ -11615,19 +12197,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/xchannel1987/dsh-mobile-xc"
-  },
-  {
-    "owner": "xchannel1987",
-    "repo": "dsh-session-xc",
-    "description": "DSH session enhancement plugin with session count display, archive management, and cross-workspace move",
-    "category": "other",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 1,
-    "updatedAt": "2026-09-10T17:52:50Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/xchannel1987/dsh-session-xc"
   },
   {
     "owner": "xchannel1987",
@@ -11710,19 +12279,6 @@
     "githubUrl": "https://github.com/WFMinerva/dsh-turn-cost"
   },
   {
-    "owner": "wangshunnn",
-    "repo": "oh-my-dsh",
-    "description": "🐋 All you need is oh-my-dsh ｜ DeepSeek Harness 社区插件索引与精选（自动更新）",
-    "category": "other",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 5,
-    "updatedAt": "2026-09-10T17:43:39Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/wangshunnn/oh-my-dsh"
-  },
-  {
     "owner": "wanghaixu-hai",
     "repo": "dsh-effort-router",
     "description": "DSH 模型分流插件：按每一轮请求的难度自动选模型与思考强度——简单问题走便宜快模型，难题才叫强模型。零 token 规则判定，只在判不准的灰区问一次小模型。发送前把本轮计划同步到输入框的模型框，座位=实际；不改你的默认模型。",
@@ -11761,8 +12317,8 @@
     "category": "other",
     "tags": [],
     "language": "TypeScript",
-    "stars": 3,
-    "updatedAt": "2026-09-10T17:41:38Z",
+    "stars": 4,
+    "updatedAt": "2026-09-11T07:07:56Z",
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/xxww0098/dsh-plugin-oauth-subs"
@@ -12368,8 +12924,8 @@
       "pi"
     ],
     "language": "JavaScript",
-    "stars": 141,
-    "updatedAt": "2026-09-11T01:45:06Z",
+    "stars": 142,
+    "updatedAt": "2026-09-11T07:23:15Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/xing-shuyin/pi-web-ui"
@@ -12909,23 +13465,6 @@
     "githubUrl": "https://github.com/EIGHTfs/dsh-skill-scoreboard"
   },
   {
-    "owner": "phuongddx",
-    "repo": "jarvis",
-    "description": "JARVIS is an intelligent layer that gives agents access to their code, knowledge, context, memory, tools, and runtime — starting locally on your machine, with the ability to extend into the cloud.",
-    "category": "agent-automation",
-    "tags": [
-      "claude-code",
-      "code-intelligence",
-      "code-search"
-    ],
-    "language": "Python",
-    "stars": 1,
-    "updatedAt": "2026-09-10T16:35:09Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/phuongddx/jarvis"
-  },
-  {
     "owner": "azizemreozturk",
     "repo": "dsh-locale-tr",
     "description": "Turkish language pack for DeepSeek Harness web UI (42 namespaces, 1278 strings)",
@@ -13071,21 +13610,6 @@
     "githubUrl": "https://github.com/pure-craft/dsh-capability-panel"
   },
   {
-    "owner": "Aa728848",
-    "repo": "dsh-llm-verifier",
-    "description": "Configurable DSH-native LLM verifier with a Web settings page",
-    "category": "web-ui",
-    "tags": [
-      "dsh-plugins"
-    ],
-    "language": "TypeScript",
-    "stars": 14,
-    "updatedAt": "2026-09-11T04:25:01Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Aa728848/dsh-llm-verifier"
-  },
-  {
     "owner": "huangfuren",
     "repo": "dsh-outline-auto",
     "description": "DSH (DeepSeek Harness) web plugin: search and read company Outline knowledge base documents from conversations (outline_search / outline_get_document).",
@@ -13171,8 +13695,8 @@
       "drama-skills"
     ],
     "language": "Python",
-    "stars": 335,
-    "updatedAt": "2026-09-11T05:43:06Z",
+    "stars": 334,
+    "updatedAt": "2026-09-11T07:23:24Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/zenstory-ai/oh-story-dsh"
@@ -13476,21 +14000,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/Eternalloveone/dsh-palm"
-  },
-  {
-    "owner": "kedoupi",
-    "repo": "xiaotaozi-dsh",
-    "description": "xiaotaozi-dsh：小桃子 DeepSeek Harness 插件与 Mac 客户端",
-    "category": "other",
-    "tags": [
-      "cordis"
-    ],
-    "language": "TypeScript",
-    "stars": 1,
-    "updatedAt": "2026-09-10T16:14:53Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/kedoupi/xiaotaozi-dsh"
   },
   {
     "owner": "MichengAI",
@@ -13865,8 +14374,8 @@
       "termux"
     ],
     "language": "Kotlin",
-    "stars": 350,
-    "updatedAt": "2026-09-11T02:55:42Z",
+    "stars": 351,
+    "updatedAt": "2026-09-11T06:57:09Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/kelai141/dsh-mobile-apk"
@@ -14105,8 +14614,8 @@
       "electron"
     ],
     "language": "TypeScript",
-    "stars": 778,
-    "updatedAt": "2026-09-11T05:51:33Z",
+    "stars": 779,
+    "updatedAt": "2026-09-11T06:53:52Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/EthanYoQ/AI-Novel-Writer"
@@ -14444,8 +14953,8 @@
       "deepseek"
     ],
     "language": "TypeScript",
-    "stars": 306,
-    "updatedAt": "2026-09-11T06:20:22Z",
+    "stars": 307,
+    "updatedAt": "2026-09-11T07:11:34Z",
     "status": "Popular",
     "install": null,
     "githubUrl": "https://github.com/1692775560/dsh-Mimir-Academic-research"
@@ -14790,21 +15299,6 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/Mooling0602/dsh-web-file-uploader"
-  },
-  {
-    "owner": "PC2005-cloud",
-    "repo": "dsh-pet",
-    "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-    "category": "desktop-terminal",
-    "tags": [
-      "desktop-pet"
-    ],
-    "language": "TypeScript",
-    "stars": 599,
-    "updatedAt": "2026-09-11T06:18:13Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/PC2005-cloud/dsh-pet"
   },
   {
     "owner": "iguanren",
@@ -15292,546 +15786,5 @@
     "status": "New",
     "install": null,
     "githubUrl": "https://github.com/masknull/dsh-model-tester"
-  },
-  {
-    "owner": "MingYU-kalo",
-    "repo": "dsh-https-fix",
-    "description": "DeepSeek Harness plugin: built-in HTTPS reverse proxy with configurable settings (设置→插件配置→Https Fix)",
-    "category": "web-ui",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 2,
-    "updatedAt": "2026-09-10T15:01:46Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/MingYU-kalo/dsh-https-fix"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-plugin-kit",
-    "description": "Shared zero-runtime-dependency toolkit for PerryLink DSH plugins: a pluggable Provider registry seam, fail-closed approval and adaptive session-event gates, mechanical verify scripts, shared sanitize/pricing/judge modules, and a new-plugin skeleton.",
-    "category": "tools",
-    "tags": [
-      "approval",
-      "cordis",
-      "deepseek"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T15:03:40Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-plugin-kit"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-translate",
-    "description": "Vendor parameter translation and deterministic JSON repair for DeepSeek Harness: /translate maps temperature/top_p/max_tokens/stop/system across 11 vendors, and the post-execute repair layer (plus fix_json) fixes broken JSON tool output without ever fabricating data",
-    "category": "tools",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "json-repair"
-    ],
-    "language": "JavaScript",
-    "stars": 6,
-    "updatedAt": "2026-09-10T15:01:17Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-translate"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-test-drive",
-    "description": "Isolated install-and-smoke test drives for DeepSeek Harness plugins: installs a repo or npm package into a throwaway DSH_HOME profile, verifies the bundle patch layer and boot logs, records a structured pass/fail result matrix (JSON/Markdown) for scoring pipelines, and quarantines every temp directory it owns",
-    "category": "files-content",
-    "tags": [
-      "ci",
-      "compatibility-matrix",
-      "cordis"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-11T05:30:45Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-test-drive"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-research-report",
-    "description": "Verifiable research-report engine for DeepSeek Harness: content-addressed evidence ledger (claim-snapshot binding, tamper-evident) plus versioned sealed reports with per-claim verification verdicts and a manifest-sealed directory.",
-    "category": "security-ops",
-    "tags": [
-      "audit",
-      "citation-verification",
-      "cordis"
-    ],
-    "language": "TypeScript",
-    "stars": 88,
-    "updatedAt": "2026-09-11T06:31:29Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-research-report"
-  },
-  {
-    "owner": "YaoApp",
-    "repo": "yao",
-    "description": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
-    "category": "agent-automation",
-    "tags": [
-      "agent-harness",
-      "agent-orchestration",
-      "agent-skills"
-    ],
-    "language": "Go",
-    "stars": 7923,
-    "updatedAt": "2026-09-11T04:21:51Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/YaoApp/yao"
-  },
-  {
-    "owner": "anywhere-labs",
-    "repo": "dsh-desktop",
-    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "category": "desktop-terminal",
-    "tags": [
-      "cordis",
-      "cordis-plugin",
-      "deepseek"
-    ],
-    "language": "TypeScript",
-    "stars": 25472,
-    "updatedAt": "2026-09-11T06:49:47Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/anywhere-labs/dsh-desktop"
-  },
-  {
-    "owner": "TianJie52009",
-    "repo": "dsh-kaomoji",
-    "description": "Add Japanese kaomoji to DeepSeek Harness (dsh) replies; prompt-injection plugin with a curated kaomojiya.org library.",
-    "category": "other",
-    "tags": [],
-    "language": "JavaScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:57:08Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/TianJie52009/dsh-kaomoji"
-  },
-  {
-    "owner": "zhm20001",
-    "repo": "dsh-usage-board",
-    "description": "dsh-usage-board 是专为 DSH (DeepSeek Harness) 设计的用量与成本可视化看板插件。  插件能实时捕获会话内的 Token 消耗、Step 耗时和异常指标，支持冷启动增量回溯历史全量会话，并按 Sub-agent DAG 调用关系进行树状归集与反向明细穿透。",
-    "category": "agent-automation",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:56:50Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/zhm20001/dsh-usage-board"
-  },
-  {
-    "owner": "ZJUZhiyuCai",
-    "repo": "dsh-ivory",
-    "description": "Calm, auditable Claude-inspired theme for DeepSeek Harness — light/dark/mobile, safe Markdown preview, zero telemetry, zero runtime dependencies.",
-    "category": "web-ui",
-    "tags": [
-      "accessibility",
-      "claude-inspired",
-      "dark-mode"
-    ],
-    "language": "JavaScript",
-    "stars": 2,
-    "updatedAt": "2026-09-10T14:55:54Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/ZJUZhiyuCai/dsh-ivory"
-  },
-  {
-    "owner": "Cyning12",
-    "repo": "SpecWave",
-    "description": "SpecWave — multi-host coding CLI + P0 gates/Harness (Cursor/Claude/DSH). Formerly SpecGate / dsh-coding-kit. npx spec-wave",
-    "category": "desktop-terminal",
-    "tags": [
-      "dsh-plugins",
-      "harness",
-      "multi-host"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-10T14:57:21Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Cyning12/SpecWave"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-permission-rules",
-    "description": "Claude Code-style declarative permission rules for DeepSeek Harness: ordered allow/deny/ask rules with tool-name, argument (glob/regex), and workspace-path matching on the tools/pre-execute waterfall, session-log audit, and HMR reload.",
-    "category": "security-ops",
-    "tags": [
-      "ai-safety",
-      "allow-deny-ask",
-      "approval"
-    ],
-    "language": "TypeScript",
-    "stars": 113,
-    "updatedAt": "2026-09-10T14:51:11Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-permission-rules"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-data-quality",
-    "description": "DeepSeek Harness plugin: deterministic data profiling, cleaning, and verification (dsh-data-quality)",
-    "category": "other",
-    "tags": [
-      "cordis",
-      "data-cleaning",
-      "data-profiling"
-    ],
-    "language": "TypeScript",
-    "stars": 23,
-    "updatedAt": "2026-09-11T06:43:04Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-data-quality"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-reach",
-    "description": "Multi-channel decision & remote-control bridge for DeepSeek Harness: pushes any workspace's approval/question cards to IM channels (WeChat iLink first) and answers them from chat, with a session console, per-channel security, and an open push service.",
-    "category": "security-ops",
-    "tags": [
-      "approval",
-      "bridge",
-      "clawbot"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:53:17Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-reach"
-  },
-  {
-    "owner": "kk3ya03-star",
-    "repo": "dsh-lcx-codex",
-    "description": "Model-scoped DSH plugin: GPT Responses lifecycle, Native V2 compaction and Hosted/Alpha Search; Grok native Web/X Search",
-    "category": "web-ui",
-    "tags": [
-      "newapi",
-      "openai-responses",
-      "sub2api"
-    ],
-    "language": "JavaScript",
-    "stars": 1,
-    "updatedAt": "2026-09-10T14:51:31Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/kk3ya03-star/dsh-lcx-codex"
-  },
-  {
-    "owner": "Shaky77",
-    "repo": "KISS_Law-DSH",
-    "description": "Weiwen's Law (KISS-Law) — a domain-agnostic causal-constraint middleware for DeepSeek Harness. A faithful, white-box presentation of how causal law actually runs. White-box audit, never prediction. Hard-gate the boundary; inner H decides freely.",
-    "category": "security-ops",
-    "tags": [
-      "ai",
-      "causality",
-      "harness"
-    ],
-    "language": "HTML",
-    "stars": 2,
-    "updatedAt": "2026-09-10T14:53:56Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/Shaky77/KISS_Law-DSH"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-observe",
-    "description": "OpenTelemetry and Langfuse observability exporter for DeepSeek Harness: turn/step/tool/LLM spans, token and cost metrics, sanitized prompt/completion capture, async batching, bounded offline buffering, retry with backoff",
-    "category": "tools",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "langfuse"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-10T15:55:12Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-observe"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-local-ai",
-    "description": "Local-model (Ollama) integration for DeepSeek Harness: discover, pull, remove, and inspect local models, route requests to them by task type or keyword with automatic fallback to the cloud, and get a one-shot status overview via /ollama.",
-    "category": "files-content",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "local-llm"
-    ],
-    "language": "TypeScript",
-    "stars": 11,
-    "updatedAt": "2026-09-10T14:50:55Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-local-ai"
-  },
-  {
-    "owner": "pakgrou-porg",
-    "repo": "yardmaster",
-    "description": "Two-stage LLM router: Switchyard model selection + PAIR node placement, one local endpoint",
-    "category": "agent-automation",
-    "tags": [
-      "electron",
-      "llm-router",
-      "local-first"
-    ],
-    "language": "Go",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:50:01Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/pakgrou-porg/yardmaster"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-industry-research",
-    "description": "Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.",
-    "category": "security-ops",
-    "tags": [
-      "company-research",
-      "cordis",
-      "industry-research"
-    ],
-    "language": "TypeScript",
-    "stars": 88,
-    "updatedAt": "2026-09-11T01:24:57Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-industry-research"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-fund-research",
-    "description": "DeepSeek Harness plugin: deterministic research reports for Chinese public mutual funds",
-    "category": "search-research",
-    "tags": [
-      "cordis",
-      "finance",
-      "fund-research"
-    ],
-    "language": "TypeScript",
-    "stars": 31,
-    "updatedAt": "2026-09-11T03:11:26Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-fund-research"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-composer-history",
-    "description": "Terminal-style input history for the DeepSeek Harness web composer: edge-first arrows with exact draft/caret restore, browser-local persisted history, Ctrl+R reverse search, workspace recall - and sliding-context awareness (compaction summaries in recall/search, compaction notice with one-click /compact fill).",
-    "category": "web-ui",
-    "tags": [
-      "compaction",
-      "composer",
-      "context-window"
-    ],
-    "language": "TypeScript",
-    "stars": 15,
-    "updatedAt": "2026-09-10T14:51:37Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-composer-history"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-ticktick",
-    "description": "TickTick (Dida365) task bridge for DeepSeek Harness: Session-header task panel (list filter, undone/completed views, search, drag reorder), 11 curated agent tools, settings card, over the official TickTick MCP endpoint.",
-    "category": "agent-automation",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "dida365"
-    ],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:51:57Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-ticktick"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-talk",
-    "description": "Voice-first session loop for DeepSeek Harness: a composer microphone button with browser/local speech-to-text (Web Speech, FunASR, whisper.cpp), a speak tool for text-to-speech replies (browser, edge-tts, piper), event announcements with mute, and speak-to-interrupt.",
-    "category": "web-ui",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "microphone"
-    ],
-    "language": "TypeScript",
-    "stars": 10,
-    "updatedAt": "2026-09-10T14:49:21Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-talk"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-session-pin",
-    "description": "Pin sessions and workspaces to the top of the DeepSeek Harness sidebar with per-pin row colors - a dual-face (host + client) dsh plugin.",
-    "category": "desktop-terminal",
-    "tags": [
-      "pin",
-      "session-pin",
-      "workspace"
-    ],
-    "language": "TypeScript",
-    "stars": 7,
-    "updatedAt": "2026-09-10T14:52:27Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-session-pin"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-mcp-panel",
-    "description": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
-    "category": "desktop-terminal",
-    "tags": [
-      "cordis",
-      "deepseek",
-      "management"
-    ],
-    "language": "TypeScript",
-    "stars": 54,
-    "updatedAt": "2026-09-10T14:49:15Z",
-    "status": "Popular",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-mcp-panel"
-  },
-  {
-    "owner": "HuanLinOTO",
-    "repo": "dsh-plugin-sleep",
-    "description": "向模型暴露 sleep 工具，按指定毫秒暂停执行后返回，支持取消/clamp | Exposes a sleep tool that pauses for specified ms then returns, with cancellation/clamping",
-    "category": "tools",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 10,
-    "updatedAt": "2026-09-10T14:52:14Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/HuanLinOTO/dsh-plugin-sleep"
-  },
-  {
-    "owner": "SodaZheng",
-    "repo": "dsh-more",
-    "description": "为 DeepSeek Harness Web 补齐上下文与历史控制能力的一组实用补丁；每个补丁都可以独立启停。",
-    "category": "web-ui",
-    "tags": [],
-    "language": "TypeScript",
-    "stars": 0,
-    "updatedAt": "2026-09-10T14:46:53Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/SodaZheng/dsh-more"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-output-styles",
-    "description": "Claude Code outputStyles for DeepSeek Harness - session-scoped, durable, runtime-switchable model output styles (/style command, output_style storage domain, systemPrompt injection)",
-    "category": "memory-knowledge",
-    "tags": [
-      "claude-code",
-      "output-style",
-      "output-styles"
-    ],
-    "language": "TypeScript",
-    "stars": 6,
-    "updatedAt": "2026-09-10T14:48:06Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-output-styles"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-lsp-actions",
-    "description": "LSP action surface for DeepSeek Harness: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints, and rename tools over language servers",
-    "category": "security-ops",
-    "tags": [
-      "acp",
-      "code-action",
-      "completion"
-    ],
-    "language": "TypeScript",
-    "stars": 19,
-    "updatedAt": "2026-09-10T14:47:17Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-lsp-actions"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-draw",
-    "description": "Unified static-image generation router for DeepSeek Harness: one image_generate tool with standard parameters, config-driven engine routing (OpenAI Images, Zhipu CogView, and any compatible endpoint) with health-aware fallback, durable workspace attachments, per-session quota accounting, and a Plugins settings panel",
-    "category": "agent-automation",
-    "tags": [
-      "cogview",
-      "cordis",
-      "deepseek"
-    ],
-    "language": "TypeScript",
-    "stars": 6,
-    "updatedAt": "2026-09-10T14:47:49Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-draw"
-  },
-  {
-    "owner": "PerryLink",
-    "repo": "dsh-doublecheck",
-    "description": "Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.",
-    "category": "web-ui",
-    "tags": [
-      "delivery-gate",
-      "engineering-discipline",
-      "guard"
-    ],
-    "language": "TypeScript",
-    "stars": 25,
-    "updatedAt": "2026-09-10T18:36:20Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/PerryLink/dsh-doublecheck"
-  },
-  {
-    "owner": "miku00039-01",
-    "repo": "dsh-whale-pet",
-    "description": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
-    "category": "web-ui",
-    "tags": [
-      "deepseek",
-      "deepseek-harness-plugin",
-      "desktop-pet"
-    ],
-    "language": "C#",
-    "stars": 3,
-    "updatedAt": "2026-09-10T14:43:45Z",
-    "status": "New",
-    "install": null,
-    "githubUrl": "https://github.com/miku00039-01/dsh-whale-pet"
   }
 ]
